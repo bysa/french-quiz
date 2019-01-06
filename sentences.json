@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "english": "I can’t eat anymore!",
+        "french": "je n’en peux plus!",
+        "strength": 0
+    },
+    {
+        "id": 2,
+        "english": "I am full up/ I am satisfied",
+        "french": "je suis rassasié",
+        "strength": 0
+    },
+    {
+        "id": 3,
+        "english": "we understand each other most of the time",
+        "french": "on se comprend la plupart du temps",
+        "strength": 0
+    },
+    {
+        "id": 4,
+        "english": "but as soon as she starts to translate...",
+        "french": "mais aussitôt qu’elle commence à traduire...",
+        "strength": 0
+    },
+    {
+        "id": 5,
+        "english": "I get lost",
+        "french": "je me perds",
+        "strength": 0
+    },
+    {
+        "id": 6,
+        "english": "you do not make any mistakes in English",
+        "french": "tu ne fais pas de fautes en anglais..",
+        "strength": 0
+    },
+    {
+        "id": 7,
+        "english": "we are not going to argue again",
+        "french": "on ne va pas encore se disputer",
+        "strength": 0
+    },
+    {
+        "id": 8,
+        "english": "we fight/argue all the time",
+        "french": "nous nous disputons tout le temps",
+        "strength": 0
+    },
+    {
+        "id": 9,
+        "english": "I’ve already eaten too much",
+        "french": "j’ai déjà trop mangé",
+        "strength": 0
+    },
+    {
+        "id": 10,
+        "english": "me neither",
+        "french": "moi non plus",
+        "strength": 0
+    },
+    {
+        "id": 11,
+        "english": "Do you fancy a little Ricard? ",
+        "french": "Ça te dirait de prendre un petit Ricard? ",
+        "strength": 0
+    },
+    {
+        "id": 12,
+        "english": "a small Ricard will go down very well",
+        "french": "un petit Ricard m’ira très bien",
+        "strength": 0
+    },
+    {
+        "id": 13,
+        "english": "it is warm/mild outside.",
+        "french": "il fait doux dehors",
+        "strength": 0
+    },
+    {
+        "id": 14,
+        "english": "I will not be able to sleep if I have a coffee at this time",
+        "french": "je ne pourrai pas dormir si je prends un café à cette heure- ci",
+        "strength": 0
+    },
+    {
+        "id": 15,
+        "english": "That’s obvious",
+        "french": "Ça se voit",
+        "strength": 0
+    },
+    {
+        "id": 16,
+        "english": "I will bring them to you on the terrace",
+        "french": "je vous les apporte sur la terrasse",
+        "strength": 0
+    }
+]
