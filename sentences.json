@@ -250,5 +250,11 @@
         "english": "May I go to the bathroom?",
         "french": "Puis-je aller aux toilettes?",
         "strength": 0
+    },
+    {
+        "id": 43,
+        "english": "December 31st is New Year's Eve.",
+        "french": "Le 31 décembre, c'est le réveillon du nouvel an.",
+        "strength": 0
     }
 ]
