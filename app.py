@@ -5,7 +5,7 @@ import sys
 
 file_name = "sentences.json"
 
-
+"""
 def switch_command(command):
     if command == "update":
         ans = input("Are you sure to update data? (y/n)")
@@ -41,3 +41,8 @@ if __name__ == "__main__":
         command = sys.argv[1]
 
     switch_command(command)
+"""
+
+
+utility.get_bookmarks(file_name)
+utility.clear_bookmark_by_ids(file_name, 22, 3)

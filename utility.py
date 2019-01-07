@@ -47,10 +47,20 @@ def get_bookmarks(file_name):
 
 def print_bookmarks(bookmarked):
     for d in bookmarked:
-        print('\neng: ', d['english'])
+        print('\nid: ', d['id'])
+        print('eng: ', d['english'])
         print('fr: ', d['french'])
         print('lvl: ', d['level'])
         print('strength: ', d['strength'])
+
+
+def clear_bookmark_by_ids(file_name, *ids):
+    data = read_from_json(file_name)
+    bookmarked = [d for d in data if d['bookmarked']]
+    for d in bookmarked:
+        if d["id"] in ids:
+            d["bookmarked"] = False
+    write_collection_to_json(data, file_name)
 
 
 def add_field(file_name, new_field, default_value):
