@@ -1,4 +1,7 @@
 info.py
+en.txt
+fr.txt
+
 *.zip
 *.h5
 __pycache__/
