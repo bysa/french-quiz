@@ -28,7 +28,7 @@ def write_to_json(data, eng_list, fr_list, target_file):
 
     for (eng, fr) in zip(eng_list, fr_list):
         # add only if it is new
-        if not any(sen["english"] == eng for sen in data):
+        if not any(sen["english"].lower() == eng.lower() for sen in data):
             index += 1
             item = dict(id=last_index + index,
                         english=eng, french=fr, strength=0)
