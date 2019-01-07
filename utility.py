@@ -37,3 +37,25 @@ def get_stats(file_name):
     print(f"{Fore.RED}(0-3): {low}")
     print(f"{Fore.YELLOW}(4-7): {mid}")
     print(f"{Fore.GREEN}(8+): {high}{Style.RESET_ALL}")
+
+
+def get_bookmarks(file_name):
+    data = read_from_json(file_name)
+    bookmarked = [d for d in data if d['bookmarked']]
+    print_bookmarks(bookmarked)
+
+
+def print_bookmarks(bookmarked):
+    for d in bookmarked:
+        print('\neng: ', d['english'])
+        print('fr: ', d['french'])
+        print('lvl: ', d['level'])
+        print('strength: ', d['strength'])
+
+
+def add_field(file_name, new_field, default_value):
+    data = read_from_json(file_name)
+    for d in data:
+        d[new_field] = default_value
+    write_collection_to_json(data, file_name)
+    print("Data updated!")

@@ -3,258 +3,344 @@
         "id": 1,
         "english": "I can't eat anymore!",
         "french": "je n'en peux plus!",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 2,
         "english": "I am full up/ I am satisfied",
         "french": "je suis rassasié",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 3,
         "english": "we understand each other most of the time",
         "french": "on se comprend la plupart du temps",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 4,
         "english": "but as soon as she starts to translate...",
         "french": "mais aussitôt qu'elle commence à traduire...",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 5,
         "english": "I get lost",
         "french": "je me perds",
-        "strength": 1
+        "strength": 1,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 6,
         "english": "you do not make any mistakes in English",
         "french": "tu ne fais pas de fautes en anglais..",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 7,
         "english": "we are not going to argue again",
         "french": "on ne va pas encore se disputer",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 8,
         "english": "we fight/argue all the time",
         "french": "nous nous disputons tout le temps",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 9,
         "english": "I've already eaten too much",
         "french": "j'ai déjà trop mangé",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 10,
         "english": "me neither",
         "french": "moi non plus",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 11,
         "english": "Do you fancy a little Ricard? ",
         "french": "Ça te dirait de prendre un petit Ricard? ",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 12,
         "english": "a small Ricard will go down very well",
         "french": "un petit Ricard m'ira très bien",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 13,
         "english": "it is warm/mild outside.",
         "french": "il fait doux dehors",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 14,
         "english": "I will not be able to sleep if I have a coffee at this time",
         "french": "je ne pourrai pas dormir si je prends un café à cette heure- ci",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 15,
         "english": "That's obvious",
         "french": "Ça se voit",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 16,
         "english": "I will bring them to you on the terrace",
         "french": "je vous les apporterai sur la terrasse",
-        "strength": 1
+        "strength": 1,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 17,
         "english": "Put on your jacket, because it's cold outside",
         "french": "Mets ta veste, parce qu'il fait froid dehors.",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 18,
         "english": "She has been transferred to St-Etienne's office.",
         "french": "Elle a été mutée au bureau de St-Etienne.",
-        "strength": 0
+        "strength": 1,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 19,
         "english": "After the incident, many residents decided to move to another town.",
         "french": "Après l'incident, beaucoup de résidents ont décidé de déménager dans une autre ville.",
-        "strength": 1
+        "strength": 1,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 20,
         "english": "I'm moving tomorrow, could you come help me?",
         "french": "Je déménage demain, tu viens m'aider?",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 21,
         "english": "Oh my dear! You are so unlucky!",
         "french": "Mon pauvre, tu n'as pas de chance!",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 22,
         "english": "Guess what? I have been transferred to Paris!",
         "french": "Devine quoi ! Je suis muté à Paris!",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": true,
+        "level": 0
     },
     {
         "id": 23,
         "english": "if we had money, we could travel a little",
         "french": "si on avait de l'argent, je voyagerais un peu",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 24,
         "english": "If you worked, we would have money",
         "french": "Si tu travaillais, on aurait de l'argent",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 25,
         "english": "Did he go to the cinema?",
         "french": "Est-il allé au cinéma?",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 26,
         "english": "Did I eat pasta?",
         "french": "Ai-je mangé des pâtes?",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 27,
         "english": "Why did you leave so early?",
         "french": "Pourquoi êtes-vous partis si tôt ?",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 28,
         "english": "Did she play with her brother?",
         "french": "A-t-elle joué avec son frère?",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 29,
         "english": "Did we forget something?",
         "french": "A-t-on oublié quelque chose ?",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 30,
         "english": "Where did my sister and I study?",
         "french": "Où ma sœur et moi avons-nous fait nos études ?",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 31,
         "english": "Why did my brother come to see you?",
         "french": "Pourquoi mon frère est-il venu te voir ?",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 32,
         "english": "Did Julie do her shopping yesterday?",
         "french": "Julie a-t-elle fait ses courses hier?",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 33,
         "english": "Her boyfriend brings her flowers every week.",
         "french": "Son petit ami lui offre des fleurs toutes les semaines.",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 34,
         "english": "The woman is hugging her boyfriend.",
         "french": "La femme serre son petit ami dans ses bras.",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 35,
         "english": "There is a luggage check at trackside for some trains.",
         "french": "Il y a un contrôle des bagages au sol pour quelques trains.",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 36,
         "english": "What's the difference between ___ and ____?",
         "french": "Quelle est la difference entre ___ et ___?",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 37,
         "english": "Is this sentence correct?",
         "french": "Cette phrase est correcte?",
-        "strength": 1
+        "strength": 1,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 38,
         "english": "What does ___ mean?",
         "french": "Que vue dire ___?",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 39,
         "english": "How do you say ___ in French?",
         "french": "Comment dit-on ___ en francais?",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 40,
         "english": "What is the translation of this sentence?",
         "french": "Quelle est la traduction de cettee phrase?",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 41,
         "english": "I have a question",
         "french": "J'ai une question",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 42,
         "english": "May I go to the bathroom?",
         "french": "Puis-je aller aux toilettes?",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     },
     {
         "id": 43,
         "english": "December 31st is New Year's Eve.",
         "french": "Le 31 décembre, c'est le réveillon du nouvel an.",
-        "strength": 0
+        "strength": 0,
+        "bookmarked": false,
+        "level": 0
     }
 ]

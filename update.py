@@ -31,7 +31,7 @@ def write_to_json(data, eng_list, fr_list, target_file):
         if not any(sen["english"].lower() == eng.lower() for sen in data):
             index += 1
             item = dict(id=last_index + index,
-                        english=eng, french=fr, strength=0)
+                        english=eng, french=fr, strength=0, level=0, bookmaked=False)
             data.append(item)
 
     # write added json to file

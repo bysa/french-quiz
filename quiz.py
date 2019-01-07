@@ -48,6 +48,18 @@ def take_quiz(file_name, number_of_questions):
             else:
                 ans = False
 
+        ans = False
+        while not ans:
+            user_input = input(
+                "Do you want to bookmark the question? (y)es - (n)o\n")
+            ans = True
+            if user_input == "y":
+                question["bookmarked"] = True
+            elif user_input == "n":
+                question["bookmarked"] = False
+            else:
+                ans = False
+
     print(
         f"out of {number_of_questions}:\n correct answers: {yes}\n wrong answers: {no}\n ask later: {later}")
 

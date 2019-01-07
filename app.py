@@ -24,6 +24,8 @@ def switch_command(command):
         quiz.take_quiz(file_name, number_of_questions)
     elif command == "stats":
         utility.get_stats(file_name)
+    elif command == "bookmarks":
+        utility.get_bookmarks(file_name)
     else:
         print("unknown command")
         quit()
