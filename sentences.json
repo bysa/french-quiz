@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "english": "I can’t eat anymore!",
-        "french": "je n’en peux plus!",
+        "english": "I can't eat anymore!",
+        "french": "je n'en peux plus!",
         "strength": 0
     },
     {
@@ -20,14 +20,14 @@
     {
         "id": 4,
         "english": "but as soon as she starts to translate...",
-        "french": "mais aussitôt qu’elle commence à traduire...",
+        "french": "mais aussitôt qu'elle commence à traduire...",
         "strength": 0
     },
     {
         "id": 5,
         "english": "I get lost",
         "french": "je me perds",
-        "strength": 0
+        "strength": 1
     },
     {
         "id": 6,
@@ -49,8 +49,8 @@
     },
     {
         "id": 9,
-        "english": "I’ve already eaten too much",
-        "french": "j’ai déjà trop mangé",
+        "english": "I've already eaten too much",
+        "french": "j'ai déjà trop mangé",
         "strength": 0
     },
     {
@@ -68,7 +68,7 @@
     {
         "id": 12,
         "english": "a small Ricard will go down very well",
-        "french": "un petit Ricard m’ira très bien",
+        "french": "un petit Ricard m'ira très bien",
         "strength": 0
     },
     {
@@ -85,15 +85,15 @@
     },
     {
         "id": 15,
-        "english": "That’s obvious",
+        "english": "That's obvious",
         "french": "Ça se voit",
         "strength": 0
     },
     {
         "id": 16,
         "english": "I will bring them to you on the terrace",
-        "french": "je vous les apporte sur la terrasse",
-        "strength": 0
+        "french": "je vous les apporterai sur la terrasse",
+        "strength": 1
     },
     {
         "id": 17,
@@ -103,7 +103,7 @@
     },
     {
         "id": 18,
-        "english": "She has been transferred to St-Etienne’s office.",
+        "english": "She has been transferred to St-Etienne's office.",
         "french": "Elle a été mutée au bureau de St-Etienne.",
         "strength": 0
     },
@@ -111,18 +111,18 @@
         "id": 19,
         "english": "After the incident, many residents decided to move to another town.",
         "french": "Après l'incident, beaucoup de résidents ont décidé de déménager dans une autre ville.",
-        "strength": 0
+        "strength": 1
     },
     {
         "id": 20,
-        "english": "I’m moving tomorrow, could you come help me?",
-        "french": "Je déménage demain, tu viens m’aider?",
+        "english": "I'm moving tomorrow, could you come help me?",
+        "french": "Je déménage demain, tu viens m'aider?",
         "strength": 0
     },
     {
         "id": 21,
         "english": "Oh my dear! You are so unlucky!",
-        "french": "Mon pauvre, tu n’as pas de chance!",
+        "french": "Mon pauvre, tu n'as pas de chance!",
         "strength": 0
     },
     {
@@ -134,13 +134,13 @@
     {
         "id": 23,
         "english": "if we had money, we could travel a little",
-        "french": "si on avait de l’argent, je voyagerais un peu",
+        "french": "si on avait de l'argent, je voyagerais un peu",
         "strength": 0
     },
     {
         "id": 24,
         "english": "If you worked, we would have money",
-        "french": "Si tu travaillais, on aurait de l’argent",
+        "french": "Si tu travaillais, on aurait de l'argent",
         "strength": 0
     },
     {
@@ -219,7 +219,7 @@
         "id": 37,
         "english": "Is this sentence correct?",
         "french": "Cette phrase est correcte?",
-        "strength": 0
+        "strength": 1
     },
     {
         "id": 38,
