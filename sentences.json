@@ -342,5 +342,93 @@
         "strength": 0,
         "bookmarked": false,
         "level": 0
+    },
+    {
+        "id": 44,
+        "english": "The actors are waiting for the shooting to start.",
+        "french": "Les acteurs attendent que le tournage commence.",
+        "strength": 0,
+        "level": 0,
+        "bookmaked": false
+    },
+    {
+        "id": 45,
+        "english": "Patrick would call me hysterical every day.",
+        "french": "Patrick me traitait d'hystérique tous les jours",
+        "strength": 0,
+        "level": 0,
+        "bookmaked": false
+    },
+    {
+        "id": 46,
+        "english": "If you mess up your exams again, you can say good-bye to your allowance.",
+        "french": "Si tu rates encore tes examens, tu peux dire adieu à ton argent de poche.",
+        "strength": 0,
+        "level": 0,
+        "bookmaked": false
+    },
+    {
+        "id": 47,
+        "english": "Spielberg shot a lot of movies.",
+        "french": "Spielberg a tourné beaucoup de films.",
+        "strength": 0,
+        "level": 0,
+        "bookmaked": false
+    },
+    {
+        "id": 48,
+        "english": "I have nothing coming up career-wise.",
+        "french": "Je suis en pleine traversée du désert.",
+        "strength": 0,
+        "level": 0,
+        "bookmaked": false
+    },
+    {
+        "id": 49,
+        "english": "I gave up your last movie production.",
+        "french": "J'ai abandonné ton dernier tournage.",
+        "strength": 0,
+        "level": 0,
+        "bookmaked": false
+    },
+    {
+        "id": 50,
+        "english": "My teeth are white.",
+        "french": "Mes dents sont blanches.",
+        "strength": 0,
+        "level": 0,
+        "bookmaked": false
+    },
+    {
+        "id": 51,
+        "english": "He never talks to me. He is never available.",
+        "french": "Il ne parle jamais avec moi. Il n'est jamais disponible.",
+        "strength": 0,
+        "level": 0,
+        "bookmaked": false
+    },
+    {
+        "id": 52,
+        "english": "What did you do this morning?",
+        "french": "Qu'as-tu fait ce matin ?",
+        "strength": 0,
+        "level": 0,
+        "bookmaked": false
+    },
+    {
+        "id": 53,
+        "english": "Did you go to the store as I asked?\"",
+        "french": "Es-tu allé au marché comme je l'ai demandé ?",
+        "strength": 0,
+        "level": 0,
+        "bookmaked": false
+    },
+    {
+        "id": 54,
+        "english": "I washed my hands.(2)",
+        "french": "Je me suis lavé les mains.",
+        "strength": 0,
+        "level": "2",
+        "bookmaked": false
     }
 ]

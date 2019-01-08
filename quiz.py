@@ -28,6 +28,7 @@ def take_quiz(file_name, number_of_questions):
 
     for index in questions_indices:
         question = data[index-1]
+        # can randomly ask french or english
         input("\n" + question["english"])
         print(question["french"] + "\n")
 

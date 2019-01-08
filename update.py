@@ -1,6 +1,7 @@
 import utility
 from pathlib import Path
 import json
+import re
 
 
 def update_json(file_name):
@@ -27,11 +28,13 @@ def write_to_json(data, eng_list, fr_list, target_file):
     index = 0
 
     for (eng, fr) in zip(eng_list, fr_list):
+        out = re.search(r'\(([^)]+)', eng)
+        lvl = out.group(1) if out != None else 0
         # add only if it is new
-        if not any(sen["english"].lower() == eng.lower() for sen in data):
+        if not any(sen["english"].strip().lower() == eng.lower() for sen in data):
             index += 1
             item = dict(id=last_index + index,
-                        english=eng, french=fr, strength=0, level=0, bookmaked=False)
+                        english=eng, french=fr, strength=0, level=lvl, bookmaked=False)
             data.append(item)
 
     # write added json to file

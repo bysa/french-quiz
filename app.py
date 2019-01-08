@@ -5,7 +5,7 @@ import sys
 
 file_name = "sentences.json"
 
-"""
+
 def switch_command(command):
     if command == "update":
         ans = input("Are you sure to update data? (y/n)")
@@ -24,8 +24,11 @@ def switch_command(command):
         quiz.take_quiz(file_name, number_of_questions)
     elif command == "stats":
         utility.get_stats(file_name)
-    elif command == "bookmarks":
+    elif command == "get-bookmarks":
         utility.get_bookmarks(file_name)
+    elif command == "clear-bookmarks":
+        id = int(input("Enter id of the bookmark to remove?\n"))
+        utility.clear_bookmark_by_ids(file_name, id)
     else:
         print("unknown command")
         quit()
@@ -35,14 +38,9 @@ if __name__ == "__main__":
 
     if len(sys.argv) == 1:
         print("USAGE: python app.py <command>")
-        print("commands: update, reset, quiz, stats")
+        print("commands: update, reset, quiz, stats, get-bookmarks, clear-bookmarks")
         quit()
     else:
         command = sys.argv[1]
 
     switch_command(command)
-"""
-
-
-utility.get_bookmarks(file_name)
-utility.clear_bookmark_by_ids(file_name, 22, 3)
