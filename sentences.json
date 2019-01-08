@@ -430,5 +430,85 @@
         "strength": 0,
         "level": "2",
         "bookmaked": false
+    },
+    {
+        "id": 55,
+        "english": "I would like to book a table for two, for seven-thirty tonight.(1)",
+        "french": "J’aimerais réserver une table pour deux, pour 19 h 30 ce soir.",
+        "strength": 0,
+        "level": "1",
+        "bookmaked": false
+    },
+    {
+        "id": 56,
+        "english": "May I speak to Mister/Mrs. Leroux?(1)",
+        "french": "Est-ce que je pourrais parler à Monsieur/Madame Leroux, s'il-vous-plaît?",
+        "strength": 0,
+        "level": "1",
+        "bookmaked": false
+    },
+    {
+        "id": 57,
+        "english": "Three bottles of water, a can of orange juice, and a sandwich. That will be it?(1)",
+        "french": "Trois bouteilles d'eau, une cannette de jus d'orange et un sandwich. Ce sera tout ?",
+        "strength": 0,
+        "level": "1",
+        "bookmaked": false
+    },
+    {
+        "id": 58,
+        "english": "The girl in front is really pretty.(1)",
+        "french": "la fille devant est vraiment belle.",
+        "strength": 0,
+        "level": "1",
+        "bookmaked": false
+    },
+    {
+        "id": 59,
+        "english": "I'm...in love!(1",
+        "french": "je suis... amoureux!",
+        "strength": 0,
+        "level": "1",
+        "bookmaked": false
+    },
+    {
+        "id": 60,
+        "english": "Is it serious between you two?(1)",
+        "french": "Est-ce que c’est sérieux entre vous deux?",
+        "strength": 0,
+        "level": "1",
+        "bookmaked": false
+    },
+    {
+        "id": 61,
+        "english": "Are you seeing her again soon?(1)",
+        "french": "Est-ce que tu la revois bientôt?",
+        "strength": 0,
+        "level": "1",
+        "bookmaked": false
+    },
+    {
+        "id": 62,
+        "english": "I'm seeing her Sunday; we're having a picnic in a park.(1)",
+        "french": "Je la vois dimanche, nous faisons un pique-nique dans un parc.",
+        "strength": 0,
+        "level": "1",
+        "bookmaked": false
+    },
+    {
+        "id": 63,
+        "english": "I've been thinking about you since the picnic. Are you at work?(1)",
+        "french": "Je pense à toi depuis le pique-nique. Es-tu au travail?",
+        "strength": 0,
+        "level": "1",
+        "bookmaked": false
+    },
+    {
+        "id": 64,
+        "english": "How lon is breakfast?(1)",
+        "french": "Quelle est la duree du petit dejeuner?",
+        "strength": 0,
+        "level": "1",
+        "bookmaked": false
     }
 ]
