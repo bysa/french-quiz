@@ -46,6 +46,8 @@ def get_bookmarks(file_name):
 
 
 def print_bookmarks(bookmarked):
+    if not bookmarked:
+        print("No bookmarks")
     for d in bookmarked:
         print('\nid: ', d['id'])
         print('eng: ', d['english'])
