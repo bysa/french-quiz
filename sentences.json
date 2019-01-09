@@ -654,5 +654,53 @@
         "strength": 0,
         "level": 0,
         "bookmarked": false
+    },
+    {
+        "id": 83,
+        "english": "What time is it? x2",
+        "french": "Quelle heure est-il - Il est quelle heure?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false
+    },
+    {
+        "id": 84,
+        "english": "I like olive oil",
+        "french": "J'aime l'huile d'olive",
+        "strength": 0,
+        "level": "1",
+        "bookmarked": false
+    },
+    {
+        "id": 85,
+        "english": "I worked yesterday.",
+        "french": "J'ai travaillé hier.",
+        "strength": 0,
+        "level": "1",
+        "bookmarked": false
+    },
+    {
+        "id": 86,
+        "english": "He chose a good book.",
+        "french": "Il a choisi un bon livre.",
+        "strength": 0,
+        "level": "1",
+        "bookmarked": false
+    },
+    {
+        "id": 87,
+        "english": "They sold their house.",
+        "french": "Ils ont vendu leur maison.",
+        "strength": 0,
+        "level": "1",
+        "bookmarked": false
+    },
+    {
+        "id": 88,
+        "english": "I don't remember the buses we took",
+        "french": "Je ne me rappelle pas les bus que nous avons pris. ",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false
     }
 ]
