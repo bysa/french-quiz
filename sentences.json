@@ -67,7 +67,7 @@
         "id": 9,
         "english": "I've already eaten too much",
         "french": "j'ai déjà trop mangé",
-        "strength": 0,
+        "strength": 1,
         "bookmarked": false,
         "level": 0
     },
@@ -537,7 +537,7 @@
     },
     {
         "id": 68,
-        "english": "How are you going to the party?",
+        "english": "How are you going to the party? (informatl)",
         "french": "Comment vas-tu à la fête?",
         "strength": 0,
         "level": "1",

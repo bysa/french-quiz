@@ -1,8 +1,7 @@
 class Sentence():
-    def __init__(self):
-        self.english = ""
-        self.french = ""
-        self.strength = 0
-        self.level = 1
+    def __init__(self, *args, **kwargs):
+        self.english = kwargs.get("english", "")
+        self.french = kwargs.get("french", "")
+        self.strength = kwargs.get("strength", 0)
+        self.level =  kwargs.get("level", 0)
         self.bookmarked = False
-    # def __init__(self, english, ...) # need to define a new one? can have multiple ctors?
