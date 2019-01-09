@@ -566,5 +566,93 @@
         "strength": 0,
         "level": "1",
         "bookmarked": false
+    },
+    {
+        "id": 72,
+        "english": "A: I need to type this report. B: Leave it to me.",
+        "french": "A: Je dois taper ce rapport. B: Laissez-moi faire. ",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false
+    },
+    {
+        "id": 73,
+        "english": "A: It is an important decision. B: I leave it to you.",
+        "french": "A: C'est une décision importante. B: Je vous laisse faire.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false
+    },
+    {
+        "id": 74,
+        "english": "Why do people lie?",
+        "french": "Pourquoi est-ce que les gens mentent?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false
+    },
+    {
+        "id": 75,
+        "english": "Why did you do this?",
+        "french": "Pourquoi est-ce que tu as fait ça?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false
+    },
+    {
+        "id": 76,
+        "english": "Why are you at the doctor's office?",
+        "french": "Pourquoi tu es chez le docteur ?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false
+    },
+    {
+        "id": 77,
+        "english": "Whose umbrella is this?",
+        "french": "À qui appartient ce parapluie?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false
+    },
+    {
+        "id": 78,
+        "english": "Whose jacket is this?",
+        "french": "À qui est cette veste?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false
+    },
+    {
+        "id": 79,
+        "english": "Can I sit here?",
+        "french": "Je peux m'asseoir ici?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false
+    },
+    {
+        "id": 80,
+        "english": "Can I join you?",
+        "french": "Je peux me joindre à vous?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false
+    },
+    {
+        "id": 81,
+        "english": "Could you help me please? (formal)",
+        "french": "Pourriez-vous m'aider s'il vous plaît?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false
+    },
+    {
+        "id": 82,
+        "english": "I am truly sorry for the delay.",
+        "french": "Je suis sincèrement désolé pour le retard.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false
     }
 ]
