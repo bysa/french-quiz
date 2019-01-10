@@ -5,7 +5,9 @@
         "french": "je n'en peux plus!",
         "strength": 0,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 2,
@@ -13,23 +15,29 @@
         "french": "je suis rassasié",
         "strength": 0,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 3,
         "english": "we understand each other most of the time",
         "french": "on se comprend la plupart du temps",
-        "strength": 0,
+        "strength": 1,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 4,
         "english": "but as soon as she starts to translate...",
         "french": "mais aussitôt qu'elle commence à traduire...",
-        "strength": 0,
+        "strength": 1,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 5,
@@ -37,15 +45,19 @@
         "french": "je me perds",
         "strength": 1,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 6,
         "english": "you do not make any mistakes in English",
         "french": "tu ne fais pas de fautes en anglais..",
-        "strength": 0,
+        "strength": 1,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 7,
@@ -53,7 +65,9 @@
         "french": "on ne va pas encore se disputer",
         "strength": 0,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 8,
@@ -61,7 +75,9 @@
         "french": "nous nous disputons tout le temps",
         "strength": 0,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 9,
@@ -69,7 +85,9 @@
         "french": "j'ai déjà trop mangé",
         "strength": 1,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 10,
@@ -77,7 +95,9 @@
         "french": "moi non plus",
         "strength": 0,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 11,
@@ -85,7 +105,9 @@
         "french": "Ça te dirait de prendre un petit Ricard? ",
         "strength": 0,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 12,
@@ -93,15 +115,19 @@
         "french": "un petit Ricard m'ira très bien",
         "strength": 0,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 13,
         "english": "it is warm/mild outside.",
         "french": "il fait doux dehors",
-        "strength": 0,
+        "strength": 1,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 14,
@@ -109,7 +135,9 @@
         "french": "je ne pourrai pas dormir si je prends un café à cette heure- ci",
         "strength": 0,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 15,
@@ -117,7 +145,9 @@
         "french": "Ça se voit",
         "strength": 0,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 16,
@@ -125,7 +155,9 @@
         "french": "je vous les apporterai sur la terrasse",
         "strength": 1,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 17,
@@ -133,7 +165,9 @@
         "french": "Mets ta veste, parce qu'il fait froid dehors.",
         "strength": 0,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 18,
@@ -141,7 +175,9 @@
         "french": "Elle a été mutée au bureau de St-Etienne.",
         "strength": 1,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 19,
@@ -149,15 +185,19 @@
         "french": "Après l'incident, beaucoup de résidents ont décidé de déménager dans une autre ville.",
         "strength": 1,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 20,
-        "english": "I'm moving tomorrow, could you come help me?",
+        "english": "I'm moving tomorrow, could you come help me? (informal)",
         "french": "Je déménage demain, tu viens m'aider?",
         "strength": 0,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 21,
@@ -165,15 +205,19 @@
         "french": "Mon pauvre, tu n'as pas de chance!",
         "strength": 0,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 22,
         "english": "Guess what? I have been transferred to Paris!",
         "french": "Devine quoi ! Je suis muté à Paris!",
-        "strength": 0,
+        "strength": 1,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 23,
@@ -181,7 +225,9 @@
         "french": "si on avait de l'argent, je voyagerais un peu",
         "strength": 0,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 24,
@@ -189,15 +235,19 @@
         "french": "Si tu travaillais, on aurait de l'argent",
         "strength": 0,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 25,
         "english": "Did he go to the cinema?",
         "french": "Est-il allé au cinéma?",
-        "strength": 0,
+        "strength": 1,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 26,
@@ -205,7 +255,9 @@
         "french": "Ai-je mangé des pâtes?",
         "strength": 0,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 27,
@@ -213,15 +265,19 @@
         "french": "Pourquoi êtes-vous partis si tôt ?",
         "strength": 0,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 28,
         "english": "Did she play with her brother?",
         "french": "A-t-elle joué avec son frère?",
-        "strength": 0,
+        "strength": 1,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 29,
@@ -229,7 +285,9 @@
         "french": "A-t-on oublié quelque chose ?",
         "strength": 0,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 30,
@@ -237,7 +295,9 @@
         "french": "Où ma sœur et moi avons-nous fait nos études ?",
         "strength": 0,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 31,
@@ -245,7 +305,9 @@
         "french": "Pourquoi mon frère est-il venu te voir ?",
         "strength": 0,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 32,
@@ -253,7 +315,9 @@
         "french": "Julie a-t-elle fait ses courses hier?",
         "strength": 0,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 33,
@@ -261,7 +325,9 @@
         "french": "Son petit ami lui offre des fleurs toutes les semaines.",
         "strength": 0,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 34,
@@ -269,7 +335,9 @@
         "french": "La femme serre son petit ami dans ses bras.",
         "strength": 0,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 35,
@@ -277,7 +345,9 @@
         "french": "Il y a un contrôle des bagages au sol pour quelques trains.",
         "strength": 0,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 36,
@@ -285,7 +355,9 @@
         "french": "Quelle est la difference entre ___ et ___?",
         "strength": 1,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 37,
@@ -293,7 +365,9 @@
         "french": "Cette phrase est correcte?",
         "strength": 1,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 38,
@@ -301,7 +375,9 @@
         "french": "Que vuet dire ___?",
         "strength": 1,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 39,
@@ -309,7 +385,9 @@
         "french": "Comment dit-on ___ en francais?",
         "strength": 0,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 40,
@@ -317,7 +395,9 @@
         "french": "Quelle est la traduction de cettee phrase?",
         "strength": 0,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 41,
@@ -325,15 +405,19 @@
         "french": "J'ai une question",
         "strength": 0,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 42,
         "english": "May I go to the bathroom?",
         "french": "Puis-je aller aux toilettes?",
-        "strength": 0,
+        "strength": 1,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 43,
@@ -341,7 +425,9 @@
         "french": "Le 31 décembre, c'est le réveillon du nouvel an.",
         "strength": 0,
         "bookmarked": false,
-        "level": 0
+        "level": 0,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 44,
@@ -349,7 +435,9 @@
         "french": "Les acteurs attendent que le tournage commence.",
         "strength": 0,
         "level": 0,
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 45,
@@ -357,7 +445,9 @@
         "french": "Patrick me traitait d'hystérique tous les jours",
         "strength": 0,
         "level": 0,
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 46,
@@ -365,7 +455,9 @@
         "french": "Si tu rates encore tes examens, tu peux dire adieu à ton argent de poche.",
         "strength": 0,
         "level": 0,
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 47,
@@ -373,31 +465,39 @@
         "french": "Spielberg a tourné beaucoup de films.",
         "strength": 0,
         "level": 0,
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 48,
         "english": "I have nothing coming up career-wise.",
         "french": "Je suis en pleine traversée du désert.",
-        "strength": 0,
+        "strength": 1,
         "level": 0,
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 49,
         "english": "I gave up your last movie production.",
         "french": "J'ai abandonné ton dernier tournage.",
-        "strength": 0,
+        "strength": 1,
         "level": 0,
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 50,
         "english": "My teeth are white.",
         "french": "Mes dents sont blanches.",
-        "strength": 0,
+        "strength": 1,
         "level": 0,
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 51,
@@ -405,15 +505,19 @@
         "french": "Il ne parle jamais avec moi. Il n'est jamais disponible.",
         "strength": 0,
         "level": 0,
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 52,
         "english": "What did you do this morning?",
         "french": "Qu'as-tu fait ce matin ?",
-        "strength": 0,
+        "strength": 1,
         "level": 0,
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 53,
@@ -421,7 +525,9 @@
         "french": "Es-tu allé au marché comme je l'ai demandé ?",
         "strength": 0,
         "level": 0,
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 54,
@@ -429,7 +535,9 @@
         "french": "Je me suis lavé les mains.",
         "strength": 0,
         "level": "2",
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 55,
@@ -437,7 +545,9 @@
         "french": "J’aimerais réserver une table pour deux, pour 19 h 30 ce soir.",
         "strength": 0,
         "level": "1",
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 56,
@@ -445,7 +555,9 @@
         "french": "Est-ce que je pourrais parler à Monsieur/Madame Leroux, s'il-vous-plaît?",
         "strength": 0,
         "level": "1",
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 57,
@@ -453,7 +565,9 @@
         "french": "Trois bouteilles d'eau, une cannette de jus d'orange et un sandwich. Ce sera tout ?",
         "strength": 1,
         "level": "1",
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 58,
@@ -461,7 +575,9 @@
         "french": "la fille devant est vraiment belle.",
         "strength": 0,
         "level": "1",
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 59,
@@ -469,7 +585,9 @@
         "french": "je suis... amoureux!",
         "strength": 0,
         "level": "1",
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 60,
@@ -477,7 +595,9 @@
         "french": "Est-ce que c’est sérieux entre vous deux?",
         "strength": 0,
         "level": "1",
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 61,
@@ -485,7 +605,9 @@
         "french": "Est-ce que tu la revois bientôt?",
         "strength": 0,
         "level": "1",
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 62,
@@ -493,7 +615,9 @@
         "french": "Je la vois dimanche, nous faisons un pique-nique dans un parc.",
         "strength": 0,
         "level": "1",
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 63,
@@ -501,7 +625,9 @@
         "french": "Je pense à toi depuis le pique-nique. Es-tu au travail?",
         "strength": 1,
         "level": "1",
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 64,
@@ -509,7 +635,9 @@
         "french": "Quelle est la duree du petit dejeuner?",
         "strength": 0,
         "level": "1",
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 65,
@@ -517,15 +645,19 @@
         "french": "utilisez des sacs en tissu plutôt que des sacs en plastique",
         "strength": 0,
         "level": "1",
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 66,
-        "english": "How do you make chocolate cake?",
+        "english": "How do you make chocolate cake? (informal)",
         "french": "Comment fais-tu un gâteau au chocolat?",
-        "strength": 0,
+        "strength": 1,
         "level": "1",
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 67,
@@ -533,7 +665,9 @@
         "french": "Comment joue-t-on à ce jeu?",
         "strength": 0,
         "level": "1",
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 68,
@@ -541,7 +675,9 @@
         "french": "Comment vas-tu à la fête?",
         "strength": 0,
         "level": "1",
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 69,
@@ -549,23 +685,29 @@
         "french": "Quel est le moyen le plus rapide pour y aller ?",
         "strength": 0,
         "level": "1",
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 70,
-        "english": "How will you go back home?",
+        "english": "How are you going to go back home? (informal)",
         "french": "Comment vas-tu rentrer chez toi?",
         "strength": 0,
         "level": "1",
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 71,
         "english": "Are you free tomorrow?",
         "french": "Tu es libre demain ?",
-        "strength": 0,
+        "strength": 1,
         "level": "1",
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 72,
@@ -573,7 +715,9 @@
         "french": "A: Je dois taper ce rapport. B: Laissez-moi faire. ",
         "strength": 0,
         "level": 0,
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 73,
@@ -581,7 +725,9 @@
         "french": "A: C'est une décision importante. B: Je vous laisse faire.",
         "strength": 0,
         "level": 0,
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 74,
@@ -589,7 +735,9 @@
         "french": "Pourquoi est-ce que les gens mentent?",
         "strength": 0,
         "level": 0,
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 75,
@@ -597,7 +745,9 @@
         "french": "Pourquoi est-ce que tu as fait ça?",
         "strength": 0,
         "level": 0,
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 76,
@@ -605,7 +755,9 @@
         "french": "Pourquoi tu es chez le docteur ?",
         "strength": 0,
         "level": 0,
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 77,
@@ -613,7 +765,9 @@
         "french": "À qui appartient ce parapluie?",
         "strength": 0,
         "level": 0,
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 78,
@@ -621,15 +775,19 @@
         "french": "À qui est cette veste?",
         "strength": 0,
         "level": 0,
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 79,
         "english": "Can I sit here?",
         "french": "Je peux m'asseoir ici?",
-        "strength": 0,
+        "strength": 1,
         "level": 0,
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 80,
@@ -637,7 +795,9 @@
         "french": "Je peux me joindre à vous?",
         "strength": 0,
         "level": 0,
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 81,
@@ -645,7 +805,9 @@
         "french": "Pourriez-vous m'aider s'il vous plaît?",
         "strength": 0,
         "level": 0,
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 82,
@@ -653,7 +815,9 @@
         "french": "Je suis sincèrement désolé pour le retard.",
         "strength": 0,
         "level": 0,
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 83,
@@ -661,7 +825,9 @@
         "french": "Quelle heure est-il - Il est quelle heure?",
         "strength": 0,
         "level": 0,
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 84,
@@ -669,31 +835,39 @@
         "french": "J'aime l'huile d'olive",
         "strength": 0,
         "level": "1",
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 85,
         "english": "I worked yesterday.",
         "french": "J'ai travaillé hier.",
-        "strength": 0,
+        "strength": 1,
         "level": "1",
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 86,
         "english": "He chose a good book.",
         "french": "Il a choisi un bon livre.",
-        "strength": 0,
+        "strength": 1,
         "level": "1",
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 87,
         "english": "They sold their house.",
         "french": "Ils ont vendu leur maison.",
-        "strength": 0,
+        "strength": 1,
         "level": "1",
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
     },
     {
         "id": 88,
@@ -701,6 +875,388 @@
         "french": "Je ne me rappelle pas les bus que nous avons pris. ",
         "strength": 0,
         "level": 0,
-        "bookmarked": false
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
+    },
+    {
+        "id": 89,
+        "english": "She explained her problem",
+        "french": "Elle a expliqué son problème",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
+    },
+    {
+        "id": 90,
+        "english": "They succeeded.",
+        "french": "Ils ont réussi.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
+    },
+    {
+        "id": 91,
+        "english": "I heard the news.",
+        "french": "J'ai entendu les nouvelles",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
+    },
+    {
+        "id": 92,
+        "english": "I didn't prepare anything.",
+        "french": "Je n'ai rien préparé",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
+    },
+    {
+        "id": 93,
+        "english": "We didn't finish the work.",
+        "french": "Nous n'avons pas fini le travail",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
+    },
+    {
+        "id": 94,
+        "english": "He never answered the letter.",
+        "french": "Il n'a jamais répondu à la lettre",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
+    },
+    {
+        "id": 95,
+        "english": "Didn't you eat anything?",
+        "french": "N'as-tu rien mangé?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
+    },
+    {
+        "id": 96,
+        "english": "Did he wait for the others?",
+        "french": "A-t-il attendu les autres",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
+    },
+    {
+        "id": 97,
+        "english": "He did not take out the garbage.",
+        "french": "Il n'a pas sorti la poubelle.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
+    },
+    {
+        "id": 98,
+        "english": "She came up to see me.",
+        "french": "Elle est montée me voir",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
+    },
+    {
+        "id": 99,
+        "english": "He went out and had a lot of fun last night!",
+        "french": "Il est sorti et s’est beaucoup amusé hier soir!",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
+    },
+    {
+        "id": 100,
+        "english": "The tourist is taking pictures of the animals.",
+        "french": "Le touriste prend des photos des animaux.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "notes": "",
+        "tags": []
+    },
+    {
+        "id": 101,
+        "english": "You (formal, female) took the bus to the school but you did not come to my birthday party.",
+        "french": "Vous avez pris le bus à l’école mais vous n’êtes pas venue à ma fête d’anniversaire.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 102,
+        "english": "I (male) was born in Canada and I studied French at school.",
+        "french": "Je suis né au Canada et j’ai étudié le français à l’école.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 103,
+        "english": "You (informal, female) went to France but you did not see the Eiffel Tower",
+        "french": "Tu es allée en France mais tu n’as pas vu la Tour Eiffel",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 104,
+        "english": "You (informal) stayed in Lyon.",
+        "french": "Tu es restée à Lyon.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 105,
+        "english": "Marc wrote his seventh book",
+        "french": "Marc a écrit son septième livre",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 106,
+        "english": "Sophie didn’t want to go back to the US",
+        "french": "Sophie n’a pas voulu rentrer aux États-Unis",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 107,
+        "english": "We (mixed gender) became sad",
+        "french": "Nous sommes devenus tristes",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 108,
+        "english": "They (all male) came in to the restaurant and ate for three hours and a half.",
+        "french": "Ils sont entrés dans le restaurant et ont mangé pendant trois heures et demie.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 109,
+        "english": "Mr. Dubois, when did you (formal) go back home?",
+        "french": "M. Dubois, quand êtes-vous rentré ?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 110,
+        "english": "I went out with my friends",
+        "french": "je suis sortie avec mes amis",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 111,
+        "english": "I spent 3 hours with my friends and afterwards I came back home at 10:00.",
+        "french": "J’ai passé 3 heures avec mes amis et je suis rentrée à 22h.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 112,
+        "english": "I took out my key from my pocket to open the door.",
+        "french": "J’ai sorti la clé de ma poche pour ouvrir la porte.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 113,
+        "english": "I finally came into my room",
+        "french": "Je suis enfin rentrée dans ma chambre",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 114,
+        "english": "I went to Italy two years ago and I stayed for five days.",
+        "french": "Je suis allé(e) en Italie il y a deux ans et je suis resté(e) pendant cinq jours.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 115,
+        "english": "She has worked all this week and she is going to travel to Mexico next week.",
+        "french": "Elle a travaillé toute la semaine et elle va voyager au Mexique la semaine prochaine.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 116,
+        "english": "Last month, we left on vacation to China. We are going to return next year.",
+        "french": "Le mois dernier nous sommes partis en vacances en Chine. Nous allons retourner l’année prochaine.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 117,
+        "english": "He cooks often. ",
+        "french": "Il cuisine souvent. ",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 118,
+        "english": "He has read that book often.",
+        "french": "Il a souvent lu ce livre.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 119,
+        "english": "You (informal) already know. ",
+        "french": "Tu sais déjà. ",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 120,
+        "english": "You (informal) already saw that movie with me.",
+        "french": "Tu as déjà vu ce film avec moi.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 121,
+        "english": "They always eat at midnight. ",
+        "french": "Ils mangent toujours à minuit. ",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 122,
+        "english": "They have always loved to sing.",
+        "french": "Ils ont toujours aimé chanter.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 123,
+        "english": "We wrote a lot during Christmas vacation.",
+        "french": "On a beaucoup écrit pendant les vacances de Noël.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 124,
+        "english": "Jennifer, climbed to the 3rd floor.",
+        "french": "Jennifer est montée au troisième étage",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": "The verb does not have a direct object"
+    },
+    {
+        "id": 125,
+        "english": "Jennifer carried her groceries up stairs.",
+        "french": "Jennifer a monté ses courses au troisième étage",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": "Groceries is the direct object"
+    },
+    {
+        "id": 126,
+        "english": "I climbed the stairs.",
+        "french": "J’ai monté l’escalier.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": "The stairs is the direct object"
     }
 ]

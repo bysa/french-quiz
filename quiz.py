@@ -56,7 +56,7 @@ def take_quiz(file_name, number_of_questions):
             ans = True
             if user_input == "y":
                 question["bookmarked"] = True
-            elif user_input == "n":
+            elif user_input == "n" or user_input == "":
                 question["bookmarked"] = False
             else:
                 ans = False
