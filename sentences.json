@@ -403,7 +403,7 @@
         "id": 41,
         "english": "I have a question",
         "french": "J'ai une question",
-        "strength": 0,
+        "strength": 1,
         "bookmarked": false,
         "level": 0,
         "notes": "",
@@ -1033,7 +1033,7 @@
         "id": 104,
         "english": "You (informal) stayed in Lyon.",
         "french": "Tu es restée à Lyon.",
-        "strength": 0,
+        "strength": 1,
         "level": 0,
         "bookmarked": false,
         "tags": [],
@@ -1143,7 +1143,7 @@
         "id": 115,
         "english": "She has worked all this week and she is going to travel to Mexico next week.",
         "french": "Elle a travaillé toute la semaine et elle va voyager au Mexique la semaine prochaine.",
-        "strength": 0,
+        "strength": 1,
         "level": 0,
         "bookmarked": false,
         "tags": [],
@@ -1258,5 +1258,25 @@
         "bookmarked": false,
         "tags": [],
         "notes": "The stairs is the direct object"
+    },
+    {
+        "id": 127,
+        "english": "What brand of shoes do you prefer to wear?",
+        "french": "Quelle est la marque de chaussures que tu préfères porter?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 128,
+        "english": "Make me an offer for my old car.",
+        "french": "Fais moi une offre pour ma vielle voiture.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
     }
 ]
