@@ -26,6 +26,8 @@ def switch_command(command):
         utility.get_stats(file_name)
     elif command == "get-bookmarks":
         utility.get_bookmarks(file_name)
+    elif command == "get-progress":
+        utility.get_progress()
     elif command == "clear-bookmarks":
         id = int(input("Enter id of the bookmark to remove?\n"))
         utility.clear_bookmark_by_ids(file_name, id)

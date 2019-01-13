@@ -1,5 +1,6 @@
 from pathlib import Path
 from colorama import Fore, Style, init as colorama_init
+from datetime import date, timedelta
 import json
 
 
@@ -71,3 +72,52 @@ def add_field(file_name, new_field, default_value):
         d[new_field] = default_value
     write_collection_to_json(data, file_name)
     print("Data updated!")
+
+
+def write_progress(yes, no, later):
+    progress = read_from_json("progress.json")
+    today = date.today()
+    total_questions = yes + no + later
+
+    # if we have already entry for today, update it
+    # otherwise create a new entry for today
+    data_index = next((index for (index, d) in enumerate(
+        progress) if d['date'] == str(today)), None)
+    if data_index != None:
+        progress[data_index]['correct'] += yes
+        progress[data_index]['wrong'] += no
+        progress[data_index]['questions'] += total_questions
+    else:
+        data = dict(
+            date=str(today),
+            questions=total_questions,
+            correct=yes,
+            wrong=no
+        )
+        progress.append(data)
+
+    write_collection_to_json(progress, "progress.json")
+    print(f"progress updated for {today}")
+
+
+def get_progress():
+    data = sorted(read_from_json("progress.json"), key=lambda k: k['date'])
+    print()
+    for d in data:
+        print_progress(d)
+
+
+def get_progress_by_date(_date):
+    data = read_from_json("progress.json")
+    progress = next(d for d in data if d['date'] == _date)
+    print_progress(progress)
+
+
+def print_progress(d):
+    result = percentage(d['correct'], d['questions'])
+    print(
+        f"{d['date']}: \tquestions: {d['questions']:3d} \t\tresult: {result:10s}")
+
+
+def percentage(part, whole):
+    return f"{ int(100 * int(part)/int(whole))}%"

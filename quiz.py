@@ -1,5 +1,6 @@
 import utility
 from pathlib import Path
+from datetime import date
 import json
 import random
 
@@ -66,3 +67,8 @@ def take_quiz(file_name, number_of_questions):
 
     # write back data to json file
     utility.write_collection_to_json(data, file_name)
+
+    # write the progress
+    print()
+    utility.write_progress(yes=yes, no=no, later=later)
+    utility.get_progress_by_date(str(date.today()))
