@@ -20,7 +20,11 @@ def switch_command(command):
         else:
             quit()
     elif command == "quiz":
-        number_of_questions = int(input("How many questions?\n"))
+        number_of_questions = 0
+        if len(sys.argv) > 2:
+            number_of_questions = int(sys.argv[2])
+        else:
+            number_of_questions = int(input("How many questions?\n"))
         quiz.take_quiz(file_name, number_of_questions)
     elif command == "stats":
         utility.get_stats(file_name)
