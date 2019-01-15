@@ -1668,5 +1668,445 @@
         "bookmarked": false,
         "tags": [],
         "notes": ""
+    },
+    {
+        "id": 168,
+        "english": "You're blocking the way",
+        "french": "vous genez le passage",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 169,
+        "english": "Be nice ",
+        "french": "Soyez gentil",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 170,
+        "english": "Free the way",
+        "french": "Degagez le passage",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 171,
+        "english": "what happened, exactly?",
+        "french": "Qu’est-ce qui s’est passé au juste?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 172,
+        "english": "The flight went well, I hope?",
+        "french": "Le vol s’est bien passé, j’espère?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 173,
+        "english": "After landing",
+        "french": "Après l’atterrissage",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 174,
+        "english": "He looked for where one can find the luggage.",
+        "french": "il a cherché où est-ce que l’on récupère les bagages.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 175,
+        "english": "He looked at the billboards and information screens, but he did not understand what was written.",
+        "french": "Il a regardé les panneaux et les écrans d’information, mais il ne comprenait pas ce qui était écrit.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 176,
+        "english": "Your uncle, what did he do?",
+        "french": "Ton oncle, qu’a-t-il fait ?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 177,
+        "english": "At the end of this corridor, turn right",
+        "french": "au bout de ce couloir, vous tournez à droite.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 178,
+        "english": "What happened next?",
+        "french": "Que s’est-il passé ensuite?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 179,
+        "english": "What exactly did they ask of him?",
+        "french": "ce qu’ils lui ont demandé exactement?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 180,
+        "english": "He also had to provide the coupon for his lost suitcase",
+        "french": "Il a dû également fournir le coupon de sa valise perdue.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 181,
+        "english": "The person tried to locate the luggage using a computer",
+        "french": "la personne a tenté, grâce à un ordinateur, de localiser le bagage.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 182,
+        "english": "He gave his coordinate, that is to say (ie) the address of hotel, ..",
+        "french": "Il a donné ses coordonnées, c’est-à-dire l’adresse de l’hôtel, son numéro de chambre",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 183,
+        "english": "The suitcase arrived the next morning, but it was very damaged",
+        "french": "La valise est arrivée le lendemain matin, mais elle était très abîmée!",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 184,
+        "english": "The handle is broken, there was a big oil stain on one side and a hole on the other side.",
+        "french": "La poignée était cassée, il y avait une grosse tache d’huile sur un côté et un trou sur l’autre côté.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 185,
+        "english": "I took a day off yesterday.",
+        "french": "J'ai pris un jour de congé hier.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 186,
+        "english": "Yesterday was a holiday, so we had the day off.",
+        "french": "Hier, c'était un jour férié, donc on a eu un jour de congé.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 187,
+        "english": "there are traffic jams",
+        "french": "il y a les embouteillages",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 188,
+        "english": "I am going to count to three",
+        "french": "Je vais compter jusqu'a trois",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 189,
+        "english": "I am not kidding",
+        "french": "Je ne plaisante pas",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 190,
+        "english": "Would you like to go out to dinner with me?",
+        "french": "Tu veux aller diner avec moi?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 191,
+        "english": "You look great",
+        "french": "Tu es superbe",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 192,
+        "english": "when do we see each other again?",
+        "french": "quand est-ce qu'on se revoit?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 193,
+        "english": "Shall we go somewhere else?",
+        "french": "On va ailleurs",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 194,
+        "english": "What do you think of this place?",
+        "french": "Qu'est-ce qu tu penses de cet endroit?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 195,
+        "english": "This item, how much it is?",
+        "french": "Cet object, combien ca coute?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 196,
+        "english": "I'd like this please",
+        "french": "Je voudrais ceci s'il vous plait",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 197,
+        "english": "Could we have the menu please? (formal)",
+        "french": "Pourrions-nous avoir le menu s'il vous plait?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 198,
+        "english": "Do you have any recommendation? (formal)",
+        "french": "Avez-vous des recommandations?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 199,
+        "english": "Could I have the check please? (formal, restaurant)",
+        "french": "Pourrais-je avoir l'addition s'il vous plait?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 200,
+        "english": "Can I pay by credit card?",
+        "french": "Puis-je payer avec ma carte de credit?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 201,
+        "english": "Can I try this?",
+        "french": "Puis-je essayer ceci?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 202,
+        "english": "Do you have a fever?",
+        "french": "Avez-vous la fievre?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 203,
+        "english": "I lost my passport",
+        "french": "J'ai perdu mon passport",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 204,
+        "english": "I think I ate something bad",
+        "french": "Je pense que j'ai mange quelque chose de mauvais",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 205,
+        "english": "I need a doctor",
+        "french": "J'ai besoin d'un medecin",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 206,
+        "english": "I can't find the way back to my hotel",
+        "french": "Je ne retrouve pas le chemin jusqu'a mon hotel",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 207,
+        "english": "Is there a pharmacy nearby?",
+        "french": "Y a-t-il une pharmacie dans le coin?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 208,
+        "english": "You did a gret job (formal)",
+        "french": "You avez fait un excellent travail",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 209,
+        "english": "You were right (formal)",
+        "french": "Yous aviez raison",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 210,
+        "english": "I brought you something special",
+        "french": "Je vous ai apporte quelque chose de special.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 211,
+        "english": "How long have you been studying French?",
+        "french": "Combine de temps as-tu appris le francais?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
     }
 ]
