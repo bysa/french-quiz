@@ -2118,5 +2118,55 @@
         "bookmarked": false,
         "tags": [],
         "notes": ""
+    },
+    {
+        "id": 213,
+        "english": "When do you want to come?",
+        "french": "Quand voulez-vous venir?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 214,
+        "english": "As soon as possible",
+        "french": "le plus tôt possible",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 215,
+        "english": "I have a tooth that hurts lot",
+        "french": "j'ai une dent qui me fait très mal",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 216,
+        "english": "Does it suit you?",
+        "french": "Ca vous convient?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 217,
+        "english": "Since I can not see it today, yes it's okay",
+        "french": "Puisque je ne peux pas le voir aujourd'hui, oui ca va",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
     }
 ]
