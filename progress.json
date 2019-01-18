@@ -37,8 +37,8 @@
     },
     {
         "date": "2019-01-18",
-        "questions": 30,
-        "correct": 14,
-        "wrong": 16
+        "questions": 100,
+        "correct": 42,
+        "wrong": 58
     }
 ]
