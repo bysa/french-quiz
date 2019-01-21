@@ -31,13 +31,13 @@ def reset_data_strength(file_name):
 def get_stats(file_name):
     colorama_init()
     data = read_from_json(file_name)
-    low = len([d for d in data if d['strength'] < 4])
-    mid = len([d for d in data if 3 < d['strength'] < 8])
-    high = len([d for d in data if 7 < d['strength']])
+    low = len([d for d in data if d['strength'] < 1])
+    mid = len([d for d in data if 1 <= d['strength'] < 3])
+    high = len([d for d in data if 3 <= d['strength']])
     print(f"Total number of items: {len(data)}")
-    print(f"{Fore.RED}(0-3): {low}")
-    print(f"{Fore.YELLOW}(4-7): {mid}")
-    print(f"{Fore.GREEN}(8+): {high}{Style.RESET_ALL}")
+    print(f"{Fore.RED}(0): {low}")
+    print(f"{Fore.YELLOW}(1-3): {mid}")
+    print(f"{Fore.GREEN}(3+): {high}{Style.RESET_ALL}")
 
 
 def get_bookmarks(file_name):
