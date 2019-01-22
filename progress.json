@@ -58,5 +58,11 @@
         "questions": 50,
         "correct": 15,
         "wrong": 35
+    },
+    {
+        "date": "2019-01-22",
+        "questions": 50,
+        "correct": 33,
+        "wrong": 13
     }
 ]
