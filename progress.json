@@ -67,8 +67,8 @@
     },
     {
         "date": "2019-01-23",
-        "questions": 5,
-        "correct": 4,
-        "wrong": 1
+        "questions": 30,
+        "correct": 25,
+        "wrong": 5
     }
 ]
