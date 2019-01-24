@@ -116,7 +116,7 @@ def get_progress_by_date(_date):
 def print_progress(d):
     result = percentage(d['correct'], d['questions'])
     print(
-        f"{d['date']}: \tquestions: {d['questions']:3d} \t\tresult: {result:10s}")
+        f"{d['date']}: \tquestions: {d['questions']:3d} \t\tresult: {result:10s} \ttime spent: {d['spent_time']:}")
 
 
 def percentage(part, whole):
