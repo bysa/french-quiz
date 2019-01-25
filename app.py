@@ -1,6 +1,7 @@
 from update import update_json
 import utility
 import quiz
+from datetime import date
 import sys
 
 file_name = "sentences.json"
@@ -35,6 +36,11 @@ def switch_command(command):
     elif command == "clear-bookmarks":
         id = int(input("Enter id of the bookmark to remove?\n"))
         utility.clear_bookmark_by_ids(file_name, id)
+    elif command == "get-errors":
+        today = date.today()
+        user_input = input("Short version?\n")
+        utility.print_wrong_questions_by_day(str(today), summary=user_input != "n")            
+
     else:
         print("unknown command")
         quit()

@@ -4,6 +4,9 @@ from datetime import date, timedelta
 import json
 
 
+def build_dict(seq, key):
+    return dict((d[key], dict(d, index=index)) for (index, d) in enumerate(seq))
+
 def read_from_json(file_name):
     json_data = Path(file_name).read_text(encoding="utf-8")
     try:
@@ -46,15 +49,18 @@ def get_bookmarks(file_name):
     print_bookmarks(bookmarked)
 
 
+def print_sentence(d):
+    print('\nid: ', d['id'])
+    print('eng: ', d['english'])
+    print('fr: ', d['french'])
+    print('lvl: ', d['level'])
+    print('strength: ', d['strength'])
+
 def print_bookmarks(bookmarked):
     if not bookmarked:
         print("No bookmarks")
     for d in bookmarked:
-        print('\nid: ', d['id'])
-        print('eng: ', d['english'])
-        print('fr: ', d['french'])
-        print('lvl: ', d['level'])
-        print('strength: ', d['strength'])
+        print_sentence(d)
 
 
 def clear_bookmark_by_ids(file_name, *ids):
@@ -122,6 +128,26 @@ def print_progress(d):
     print(
         f"{d['date']}: \tquestions: {d['questions']:3d} \t\tresult: {result:10s} \ttime spent: {d['spent_time']:}")
 
+def print_wrong_questions_by_day(date, summary):
+    read_data = read_from_json("sentences.json")
+    data = build_dict(read_data, key="id")
+
+
+    progress = read_from_json("progress.json")
+    data_index = next((index for (index, d) in enumerate(progress) if d['date'] == str(date)), None)
+
+    # get indices of the wrong answered questions
+    indices = progress[data_index]['faults']
+
+    for ind in indices:
+        sen = data.get(ind)
+        if summary:
+            print(sen.get('english'))
+            print(sen.get('french'))
+        else:
+            print_sentence(sen)
+
+    print()
 
 def percentage(part, whole):
     return f"{ int(100 * int(part)/int(whole))}%"
