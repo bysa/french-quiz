@@ -74,7 +74,7 @@ def add_field(file_name, new_field, default_value):
     print("Data updated!")
 
 
-def write_progress(yes, no, later):
+def write_progress(yes, no, later, faults, time):
     progress = read_from_json("progress.json")
     today = date.today()
     total_questions = yes + no + later
@@ -87,14 +87,16 @@ def write_progress(yes, no, later):
         progress[data_index]['correct'] += yes
         progress[data_index]['wrong'] += no
         progress[data_index]['questions'] += total_questions
-        progress[data_index]['spent_time'] = 0
+        progress[data_index]['spent_time'] += time
+        progress[data_index]['faults'] = list(set(progress[data_index]['faults'] + faults))
     else:
         data = dict(
             date=str(today),
             questions=total_questions,
             correct=yes,
             wrong=no,
-            spent_time=0
+            spent_time=0,
+            faults=[]
         )
         progress.append(data)
 

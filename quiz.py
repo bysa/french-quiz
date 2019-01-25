@@ -1,6 +1,7 @@
 import utility
 from pathlib import Path
 from datetime import date
+from timeit import default_timer as timer
 import json
 import random
 
@@ -27,6 +28,8 @@ def take_quiz(file_name, number_of_questions):
     print("For each question, first the sentence will be shown in english\n"
           + "Try to come up with its french equivalent\n" + "Press any key to continue")
 
+    faults = []
+    start = timer()
     for index in questions_indices:
         question = data[index-1]
         # can randomly ask french or english
@@ -43,6 +46,7 @@ def take_quiz(file_name, number_of_questions):
                 question["strength"] = question["strength"] + 1
             elif user_input == "n":
                 no += 1
+                faults.append(index)
                 question["strength"] = 0 if question["strength"] < 1 else question["strength"] - 1
             elif user_input == "a":
                 later += 1
@@ -62,6 +66,8 @@ def take_quiz(file_name, number_of_questions):
             else:
                 ans = False
 
+    end = timer()
+    delta_time = int(end - start) # Time in seconds, e.g. 5.38091952400282
     print(
         f"out of {number_of_questions}:\n correct answers: {yes}\n wrong answers: {no}\n ask later: {later}")
 
@@ -70,5 +76,5 @@ def take_quiz(file_name, number_of_questions):
 
     # write the progress
     print()
-    utility.write_progress(yes=yes, no=no, later=later)
+    utility.write_progress(yes=yes, no=no, later=later, faults=faults, time=delta_time)
     utility.get_progress_by_date(str(date.today()))
