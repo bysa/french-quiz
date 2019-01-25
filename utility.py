@@ -87,12 +87,14 @@ def write_progress(yes, no, later):
         progress[data_index]['correct'] += yes
         progress[data_index]['wrong'] += no
         progress[data_index]['questions'] += total_questions
+        progress[data_index]['spent_time'] = 0
     else:
         data = dict(
             date=str(today),
             questions=total_questions,
             correct=yes,
-            wrong=no
+            wrong=no,
+            spent_time=0
         )
         progress.append(data)
 
