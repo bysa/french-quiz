@@ -2898,5 +2898,55 @@
         "bookmarked": false,
         "tags": [],
         "notes": ""
+    },
+    {
+        "id": 291,
+        "english": "We always dress fast.",
+        "french": "Nous nous habillons toujours vite.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 292,
+        "english": "That brings us to a third idea",
+        "french": "Ça nous amène à une troisième idée",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 293,
+        "english": "The red fox is standing in the snow",
+        "french": "Le renard rouge se tient debout dans la neige",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 294,
+        "english": "The guard stands all day.",
+        "french": "Le garde se tient debout toute la journée. Le garde est debout toute la journée.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    {
+        "id": 295,
+        "english": "He's got some nerve, that guy!",
+        "french": "Il ne manque pas d'air, lui",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
     }
 ]

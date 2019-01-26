@@ -108,9 +108,7 @@
         "questions": 53,
         "correct": 37,
         "wrong": 15,
-        "spent_time": 17,
-        "faults": [
-            239
-        ]
+        "spent_time": 0,
+        "faults": []
     }
 ]
