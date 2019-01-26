@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "english": "I can't eat anymore!",
         "french": "je n'en peux plus!",
@@ -9,7 +9,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "2": {
         "id": 2,
         "english": "I am full up/ I am satisfied",
         "french": "je suis rassasié",
@@ -19,7 +19,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "3": {
         "id": 3,
         "english": "we understand each other most of the time",
         "french": "on se comprend la plupart du temps",
@@ -29,7 +29,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "4": {
         "id": 4,
         "english": "but as soon as she starts to translate...",
         "french": "mais aussitôt qu'elle commence à traduire...",
@@ -39,7 +39,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "5": {
         "id": 5,
         "english": "I get lost",
         "french": "je me perds",
@@ -49,7 +49,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "6": {
         "id": 6,
         "english": "you do not make any mistakes in English",
         "french": "tu ne fais pas de fautes en anglais..",
@@ -59,7 +59,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "7": {
         "id": 7,
         "english": "we are not going to argue again",
         "french": "on ne va pas encore se disputer",
@@ -69,7 +69,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "8": {
         "id": 8,
         "english": "we fight/argue all the time",
         "french": "nous nous disputons tout le temps",
@@ -79,7 +79,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "9": {
         "id": 9,
         "english": "I've already eaten too much",
         "french": "j'ai déjà trop mangé",
@@ -89,7 +89,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "10": {
         "id": 10,
         "english": "me neither",
         "french": "moi non plus",
@@ -99,7 +99,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "11": {
         "id": 11,
         "english": "Do you fancy a little Ricard? ",
         "french": "Ça te dirait de prendre un petit Ricard? ",
@@ -109,7 +109,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "12": {
         "id": 12,
         "english": "a small Ricard will go down very well",
         "french": "un petit Ricard m'ira très bien",
@@ -119,7 +119,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "13": {
         "id": 13,
         "english": "it is warm/mild outside.",
         "french": "il fait doux dehors",
@@ -129,7 +129,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "14": {
         "id": 14,
         "english": "I will not be able to sleep if I have a coffee at this time",
         "french": "je ne pourrai pas dormir si je prends un café à cette heure- ci",
@@ -139,7 +139,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "15": {
         "id": 15,
         "english": "That's obvious",
         "french": "Ça se voit",
@@ -149,7 +149,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "16": {
         "id": 16,
         "english": "I will bring them to you on the terrace",
         "french": "je vous les apporterai sur la terrasse",
@@ -159,7 +159,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "17": {
         "id": 17,
         "english": "Put on your jacket, because it's cold outside",
         "french": "Mets ta veste, parce qu'il fait froid dehors.",
@@ -169,7 +169,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "18": {
         "id": 18,
         "english": "She has been transferred to St-Etienne's office.",
         "french": "Elle a été mutée au bureau de St-Etienne.",
@@ -179,7 +179,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "19": {
         "id": 19,
         "english": "After the incident, many residents decided to move to another town.",
         "french": "Après l'incident, beaucoup de résidents ont décidé de déménager dans une autre ville.",
@@ -189,7 +189,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "20": {
         "id": 20,
         "english": "I'm moving tomorrow, do you come help me? (informal)",
         "french": "Je déménage demain, tu viens m'aider?",
@@ -199,7 +199,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "21": {
         "id": 21,
         "english": "Oh my dear! You are so unlucky!",
         "french": "Mon pauvre, tu n'as pas de chance!",
@@ -209,7 +209,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "22": {
         "id": 22,
         "english": "Guess what? I have been transferred to Paris!",
         "french": "Devine quoi ! Je suis muté à Paris!",
@@ -219,7 +219,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "23": {
         "id": 23,
         "english": "if we had money, I would travel a little",
         "french": "si on avait de l'argent, je voyagerais un peu",
@@ -229,7 +229,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "24": {
         "id": 24,
         "english": "If you worked, we would have money",
         "french": "Si tu travaillais, on aurait de l'argent",
@@ -239,7 +239,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "25": {
         "id": 25,
         "english": "Did he go to the cinema?",
         "french": "Est-il allé au cinéma?",
@@ -249,7 +249,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "26": {
         "id": 26,
         "english": "Did I eat pasta?",
         "french": "Ai-je mangé des pâtes?",
@@ -259,7 +259,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "27": {
         "id": 27,
         "english": "Why did you leave so early?",
         "french": "Pourquoi êtes-vous partis si tôt ?",
@@ -269,7 +269,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "28": {
         "id": 28,
         "english": "Did she play with her brother?",
         "french": "A-t-elle joué avec son frère?",
@@ -279,7 +279,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "29": {
         "id": 29,
         "english": "Did we forget something?",
         "french": "A-t-on oublié quelque chose ?",
@@ -289,7 +289,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "30": {
         "id": 30,
         "english": "Where did my sister and I study?",
         "french": "Où ma sœur et moi avons-nous fait nos études ?",
@@ -299,7 +299,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "31": {
         "id": 31,
         "english": "Why did my brother come to see you?",
         "french": "Pourquoi mon frère est-il venu te voir ?",
@@ -309,7 +309,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "32": {
         "id": 32,
         "english": "Did Julie do her shopping yesterday?",
         "french": "Julie a-t-elle fait ses courses hier?",
@@ -319,7 +319,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "33": {
         "id": 33,
         "english": "Her boyfriend brings her flowers every week.",
         "french": "Son petit ami lui offre des fleurs toutes les semaines.",
@@ -329,7 +329,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "34": {
         "id": 34,
         "english": "The woman is hugging her boyfriend.",
         "french": "La femme serre son petit ami dans ses bras.",
@@ -339,7 +339,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "35": {
         "id": 35,
         "english": "There is a luggage check at trackside for some trains.",
         "french": "Il y a un contrôle des bagages au sol pour quelques trains.",
@@ -349,7 +349,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "36": {
         "id": 36,
         "english": "What's the difference between ___ and ____?",
         "french": "Quelle est la difference entre ___ et ___?",
@@ -359,7 +359,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "37": {
         "id": 37,
         "english": "Is this sentence correct?",
         "french": "Cette phrase est correcte?",
@@ -369,7 +369,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "38": {
         "id": 38,
         "english": "What does ___ mean?",
         "french": "Que vuet dire ___?",
@@ -379,7 +379,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "39": {
         "id": 39,
         "english": "How do you say ___ in French?",
         "french": "Comment dit-on ___ en francais?",
@@ -389,7 +389,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "40": {
         "id": 40,
         "english": "What is the translation of this sentence?",
         "french": "Quelle est la traduction de cettee phrase?",
@@ -399,7 +399,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "41": {
         "id": 41,
         "english": "I have a question",
         "french": "J'ai une question",
@@ -409,7 +409,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "42": {
         "id": 42,
         "english": "May I go to the bathroom?",
         "french": "Puis-je aller aux toilettes?",
@@ -419,7 +419,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "43": {
         "id": 43,
         "english": "December 31st is New Year's Eve.",
         "french": "Le 31 décembre, c'est le réveillon du nouvel an.",
@@ -429,7 +429,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "44": {
         "id": 44,
         "english": "The actors are waiting for the shooting to start.",
         "french": "Les acteurs attendent que le tournage commence.",
@@ -439,7 +439,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "45": {
         "id": 45,
         "english": "Patrick would call me hysterical every day.",
         "french": "Patrick me traitait d'hystérique tous les jours",
@@ -449,17 +449,17 @@
         "notes": "",
         "tags": []
     },
-    {
+    "46": {
         "id": 46,
         "english": "If you mess up your exams again, you can say good-bye to your allowance.",
         "french": "Si tu rates encore tes examens, tu peux dire adieu à ton argent de poche.",
         "strength": 2,
         "level": 0,
-        "bookmarked": true,
+        "bookmarked": false,
         "notes": "",
         "tags": []
     },
-    {
+    "47": {
         "id": 47,
         "english": "Spielberg shot a lot of movies.",
         "french": "Spielberg a tourné beaucoup de films.",
@@ -469,7 +469,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "48": {
         "id": 48,
         "english": "I have nothing coming up career-wise.",
         "french": "Je suis en pleine traversée du désert.",
@@ -479,7 +479,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "49": {
         "id": 49,
         "english": "I gave up your last movie production.",
         "french": "J'ai abandonné ton dernier tournage.",
@@ -489,7 +489,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "50": {
         "id": 50,
         "english": "My teeth are white.",
         "french": "Mes dents sont blanches.",
@@ -499,7 +499,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "51": {
         "id": 51,
         "english": "He never talks to me. He is never available.",
         "french": "Il ne parle jamais avec moi. Il n'est jamais disponible.",
@@ -509,7 +509,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "52": {
         "id": 52,
         "english": "What did you do this morning?",
         "french": "Qu'as-tu fait ce matin ?",
@@ -519,7 +519,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "53": {
         "id": 53,
         "english": "Did you go to the store as I asked it?",
         "french": "Es-tu allé au marché comme je l'ai demandé ?",
@@ -529,7 +529,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "54": {
         "id": 54,
         "english": "I washed my hands.",
         "french": "Je me suis lavé les mains.",
@@ -539,7 +539,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "55": {
         "id": 55,
         "english": "I would like to book a table for two, for seven-thirty tonight.",
         "french": "J'aimerais réserver une table pour deux, pour 19 h 30 ce soir.",
@@ -549,7 +549,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "56": {
         "id": 56,
         "english": "May I speak to Mister/Mrs. Leroux?",
         "french": "Est-ce que je pourrais parler à Monsieur/Madame Leroux, s'il-vous-plaît?",
@@ -559,7 +559,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "57": {
         "id": 57,
         "english": "Three bottles of water, a can of orange juice, and a sandwich. That will be it?",
         "french": "Trois bouteilles d'eau, une cannette de jus d'orange et un sandwich. Ce sera tout ?",
@@ -569,7 +569,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "58": {
         "id": 58,
         "english": "The girl in front is really pretty.",
         "french": "la fille devant est vraiment belle.",
@@ -579,7 +579,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "59": {
         "id": 59,
         "english": "I'm...in love!",
         "french": "je suis... amoureux!",
@@ -589,7 +589,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "60": {
         "id": 60,
         "english": "Is it serious between you two?",
         "french": "Est-ce que c'est sérieux entre vous deux?",
@@ -599,7 +599,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "61": {
         "id": 61,
         "english": "Are you seeing her again soon?",
         "french": "Est-ce que tu la revois bientôt?",
@@ -609,7 +609,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "62": {
         "id": 62,
         "english": "I'm seeing her Sunday; we're having a picnic in a park",
         "french": "Je la vois dimanche, nous faisons un pique-nique dans un parc.",
@@ -619,7 +619,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "63": {
         "id": 63,
         "english": "I've been thinking about you since the picnic. Are you at work?",
         "french": "Je pense à toi depuis le pique-nique. Es-tu au travail?",
@@ -629,7 +629,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "64": {
         "id": 64,
         "english": "How long is breakfast?",
         "french": "Quelle est la duree du petit dejeuner?",
@@ -639,7 +639,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "65": {
         "id": 65,
         "english": "use cloth bags instead of plastic bags.",
         "french": "utilisez des sacs en tissu plutôt que des sacs en plastique",
@@ -649,7 +649,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "66": {
         "id": 66,
         "english": "How do you make chocolate cake? (informal)",
         "french": "Comment fais-tu un gâteau au chocolat?",
@@ -659,7 +659,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "67": {
         "id": 67,
         "english": "How do you play this game?",
         "french": "Comment joue-t-on à ce jeu?",
@@ -669,7 +669,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "68": {
         "id": 68,
         "english": "How are you going to the party? (informal)",
         "french": "Comment vas-tu à la fête?",
@@ -679,7 +679,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "69": {
         "id": 69,
         "english": "What is the fastest way to get there?",
         "french": "Quel est le moyen le plus rapide pour y aller ?",
@@ -689,7 +689,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "70": {
         "id": 70,
         "english": "How are you going to go back home? (informal)",
         "french": "Comment vas-tu rentrer chez toi?",
@@ -699,7 +699,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "71": {
         "id": 71,
         "english": "Are you free tomorrow?",
         "french": "Tu es libre demain ?",
@@ -709,7 +709,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "72": {
         "id": 72,
         "english": "A: I need to type this report. B: Leave it to me.",
         "french": "A: Je dois taper ce rapport. B: Laissez-moi faire. ",
@@ -719,7 +719,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "73": {
         "id": 73,
         "english": "A: It is an important decision. B: I leave it to you.",
         "french": "A: C'est une décision importante. B: Je vous laisse faire.",
@@ -729,7 +729,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "74": {
         "id": 74,
         "english": "Why do people lie?",
         "french": "Pourquoi est-ce que les gens mentent?",
@@ -739,7 +739,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "75": {
         "id": 75,
         "english": "Why did you do this?",
         "french": "Pourquoi est-ce que tu as fait ça?",
@@ -749,7 +749,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "76": {
         "id": 76,
         "english": "Why are you at the doctor's office?",
         "french": "Pourquoi tu es chez le docteur ?",
@@ -759,7 +759,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "77": {
         "id": 77,
         "english": "Whose umbrella is this?",
         "french": "À qui appartient ce parapluie?",
@@ -769,7 +769,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "78": {
         "id": 78,
         "english": "Whose jacket is this?",
         "french": "À qui est cette veste?",
@@ -779,7 +779,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "79": {
         "id": 79,
         "english": "Can I sit here?",
         "french": "Je peux m'asseoir ici?",
@@ -789,7 +789,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "80": {
         "id": 80,
         "english": "Can I join you? (formal)",
         "french": "Je peux me joindre à vous?",
@@ -799,7 +799,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "81": {
         "id": 81,
         "english": "Could you help me please? (formal)",
         "french": "Pourriez-vous m'aider s'il vous plaît?",
@@ -809,7 +809,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "82": {
         "id": 82,
         "english": "I am truly sorry for the delay.",
         "french": "Je suis sincèrement désolé pour le retard.",
@@ -819,7 +819,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "83": {
         "id": 83,
         "english": "What time is it? x2",
         "french": "Quelle heure est-il - Il est quelle heure?",
@@ -829,7 +829,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "84": {
         "id": 84,
         "english": "I like olive oil",
         "french": "J'aime l'huile d'olive",
@@ -839,7 +839,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "85": {
         "id": 85,
         "english": "I worked yesterday.",
         "french": "J'ai travaillé hier.",
@@ -849,7 +849,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "86": {
         "id": 86,
         "english": "He chose a good book.",
         "french": "Il a choisi un bon livre.",
@@ -859,7 +859,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "87": {
         "id": 87,
         "english": "They sold their house.",
         "french": "Ils ont vendu leur maison.",
@@ -869,7 +869,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "88": {
         "id": 88,
         "english": "I don't remember the buses we took",
         "french": "Je ne me rappelle pas les bus que nous avons pris. ",
@@ -879,7 +879,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "89": {
         "id": 89,
         "english": "She explained her problem",
         "french": "Elle a expliqué son problème",
@@ -889,7 +889,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "90": {
         "id": 90,
         "english": "They succeeded.",
         "french": "Ils ont réussi.",
@@ -899,7 +899,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "91": {
         "id": 91,
         "english": "I heard the news.",
         "french": "J'ai entendu les nouvelles",
@@ -909,7 +909,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "92": {
         "id": 92,
         "english": "I didn't prepare anything.",
         "french": "Je n'ai rien préparé",
@@ -919,7 +919,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "93": {
         "id": 93,
         "english": "We didn't finish the work.",
         "french": "Nous n'avons pas fini le travail",
@@ -929,7 +929,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "94": {
         "id": 94,
         "english": "He never answered the letter.",
         "french": "Il n'a jamais répondu à la lettre",
@@ -939,7 +939,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "95": {
         "id": 95,
         "english": "Didn't you eat anything?",
         "french": "N'as-tu rien mangé?",
@@ -949,7 +949,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "96": {
         "id": 96,
         "english": "Did he wait for the others?",
         "french": "A-t-il attendu les autres",
@@ -959,7 +959,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "97": {
         "id": 97,
         "english": "He did not take out the garbage.",
         "french": "Il n'a pas sorti la poubelle.",
@@ -969,7 +969,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "98": {
         "id": 98,
         "english": "She came up to see me.",
         "french": "Elle est montée me voir",
@@ -979,7 +979,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "99": {
         "id": 99,
         "english": "He went out and had a lot of fun last night!",
         "french": "Il est sorti et s'est beaucoup amusé hier soir!",
@@ -989,7 +989,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "100": {
         "id": 100,
         "english": "The tourist is taking pictures of the animals.",
         "french": "Le touriste prend des photos des animaux.",
@@ -999,7 +999,7 @@
         "notes": "",
         "tags": []
     },
-    {
+    "101": {
         "id": 101,
         "english": "You (formal, female) took the bus to the school but you did not come to my birthday party.",
         "french": "Vous avez pris le bus à l'école mais vous n'êtes pas venue à ma fête d'anniversaire.",
@@ -1009,7 +1009,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "102": {
         "id": 102,
         "english": "I (male) was born in Canada and I studied French at school.",
         "french": "Je suis né au Canada et j'ai étudié le français à l'école.",
@@ -1019,7 +1019,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "103": {
         "id": 103,
         "english": "You (informal, female) went to France but you did not see the Eiffel Tower",
         "french": "Tu es allée en France mais tu n'as pas vu la Tour Eiffel",
@@ -1029,7 +1029,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "104": {
         "id": 104,
         "english": "You (informal) stayed in Lyon.",
         "french": "Tu es restée à Lyon.",
@@ -1039,7 +1039,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "105": {
         "id": 105,
         "english": "Marc wrote his seventh book",
         "french": "Marc a écrit son septième livre",
@@ -1049,7 +1049,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "106": {
         "id": 106,
         "english": "Sophie didn't want to go back to the US",
         "french": "Sophie n'a pas voulu rentrer aux États-Unis",
@@ -1059,7 +1059,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "107": {
         "id": 107,
         "english": "We (mixed gender) became sad",
         "french": "Nous sommes devenus tristes",
@@ -1069,7 +1069,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "108": {
         "id": 108,
         "english": "They (all male) came in to the restaurant and ate for three hours and a half.",
         "french": "Ils sont entrés dans le restaurant et ont mangé pendant trois heures et demie.",
@@ -1079,7 +1079,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "109": {
         "id": 109,
         "english": "Mr. Dubois, when did you (formal) go back home?",
         "french": "M. Dubois, quand êtes-vous rentré ?",
@@ -1089,7 +1089,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "110": {
         "id": 110,
         "english": "I went out with my friends",
         "french": "je suis sortie avec mes amis",
@@ -1099,7 +1099,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "111": {
         "id": 111,
         "english": "I spent 3 hours with my friends and afterwards I came back home at 10:00.",
         "french": "J'ai passé 3 heures avec mes amis et je suis rentrée à 22h.",
@@ -1109,7 +1109,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "112": {
         "id": 112,
         "english": "I took out my key from my pocket to open the door.",
         "french": "J'ai sorti la clé de ma poche pour ouvrir la porte.",
@@ -1119,7 +1119,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "113": {
         "id": 113,
         "english": "I finally came back into my room",
         "french": "Je suis enfin rentrée dans ma chambre",
@@ -1129,7 +1129,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "114": {
         "id": 114,
         "english": "I went to Italy two years ago and I stayed for five days.",
         "french": "Je suis allé(e) en Italie il y a deux ans et je suis resté(e) pendant cinq jours.",
@@ -1139,7 +1139,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "115": {
         "id": 115,
         "english": "She has worked all this week and she is going to travel to Mexico next week.",
         "french": "Elle a travaillé toute la semaine et elle va voyager au Mexique la semaine prochaine.",
@@ -1149,7 +1149,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "116": {
         "id": 116,
         "english": "Last month, we left on vacation to China. We are going to return next year.",
         "french": "Le mois dernier nous sommes partis en vacances en Chine. Nous allons retourner l'année prochaine.",
@@ -1159,7 +1159,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "117": {
         "id": 117,
         "english": "He cooks often. ",
         "french": "Il cuisine souvent. ",
@@ -1169,7 +1169,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "118": {
         "id": 118,
         "english": "He has read that book often.",
         "french": "Il a souvent lu ce livre.",
@@ -1179,7 +1179,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "119": {
         "id": 119,
         "english": "You (informal) already know. ",
         "french": "Tu sais déjà. ",
@@ -1189,7 +1189,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "120": {
         "id": 120,
         "english": "You (informal) already saw that movie with me.",
         "french": "Tu as déjà vu ce film avec moi.",
@@ -1199,7 +1199,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "121": {
         "id": 121,
         "english": "They always eat at midnight. ",
         "french": "Ils mangent toujours à minuit. ",
@@ -1209,7 +1209,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "122": {
         "id": 122,
         "english": "They have always loved to sing.",
         "french": "Ils ont toujours aimé chanter.",
@@ -1219,7 +1219,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "123": {
         "id": 123,
         "english": "We wrote a lot during Christmas vacation.",
         "french": "On a beaucoup écrit pendant les vacances de Noël.",
@@ -1229,7 +1229,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "124": {
         "id": 124,
         "english": "Jennifer, climbed to the 3rd floor.",
         "french": "Jennifer est montée au troisième étage",
@@ -1239,7 +1239,7 @@
         "tags": [],
         "notes": "The verb does not have a direct object"
     },
-    {
+    "125": {
         "id": 125,
         "english": "Jennifer carried her groceries up stairs.",
         "french": "Jennifer a monté ses courses au troisième étage",
@@ -1249,7 +1249,7 @@
         "tags": [],
         "notes": "Groceries is the direct object"
     },
-    {
+    "126": {
         "id": 126,
         "english": "I climbed the stairs.",
         "french": "J'ai monté l'escalier.",
@@ -1259,7 +1259,7 @@
         "tags": [],
         "notes": "The stairs is the direct object"
     },
-    {
+    "127": {
         "id": 127,
         "english": "What brand of shoes do you prefer to wear?(informal)",
         "french": "Quelle est la marque de chaussures que tu préfères porter?",
@@ -1269,7 +1269,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "128": {
         "id": 128,
         "english": "Make me an offer for my old car.",
         "french": "Fais moi une offre pour ma vielle voiture.",
@@ -1279,7 +1279,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "129": {
         "id": 129,
         "english": "That looks delicious",
         "french": "ca a l'air delicieux",
@@ -1289,7 +1289,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "130": {
         "id": 130,
         "english": "You daughter looks sad",
         "french": "Ta fille a l'air triste",
@@ -1299,7 +1299,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "131": {
         "id": 131,
         "english": "He looks like a laywer",
         "french": "Il a l'air d'un avocate",
@@ -1309,7 +1309,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "132": {
         "id": 132,
         "english": "You look like you'are in hurry",
         "french": "Tu as l'air d'etre presse",
@@ -1319,7 +1319,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "133": {
         "id": 133,
         "english": "You looked like you were in a hurry",
         "french": "Tu avais l'air d'etre presse",
@@ -1329,7 +1329,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "134": {
         "id": 134,
         "english": "She is more beautiful than ever",
         "french": "Elle est plus belle que jamais",
@@ -1339,7 +1339,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "135": {
         "id": 135,
         "english": "He is not young at all",
         "french": "Il n'est pas du tout jeune",
@@ -1349,7 +1349,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "136": {
         "id": 136,
         "english": "I couldn't agree with you more.",
         "french": "Je suis entièrement d'accord avec vous.",
@@ -1359,7 +1359,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "137": {
         "id": 137,
         "english": "Yes, you’re right.",
         "french": "Oui, tu as raison.",
@@ -1369,7 +1369,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "138": {
         "id": 138,
         "english": "That's exactly how I feel.",
         "french": "C'est exactement ce que je ressens.",
@@ -1379,7 +1379,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "139": {
         "id": 139,
         "english": "No doubt about it.",
         "french": "Aucun doute là-dessus.",
@@ -1389,7 +1389,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "140": {
         "id": 140,
         "english": "I was going to say that.",
         "french": "J'allais le dire",
@@ -1399,7 +1399,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "141": {
         "id": 141,
         "english": "Well, I’m not sure.",
         "french": "Eh bien, je ne suis pas sûr(e).",
@@ -1409,7 +1409,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "142": {
         "id": 142,
         "english": "If you say so.",
         "french": "Si tu le dis.",
@@ -1419,7 +1419,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "143": {
         "id": 143,
         "english": "You’re wrong!",
         "french": "Tu as tort!",
@@ -1429,7 +1429,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "144": {
         "id": 144,
         "english": "That's not always the case.",
         "french": "Ce n'est pas toujours le cas.",
@@ -1439,7 +1439,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "145": {
         "id": 145,
         "english": "Can I add something here?",
         "french": "Puis-je ajouter quelque chose?",
@@ -1449,7 +1449,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "146": {
         "id": 146,
         "english": "Let's just move on, shall we?",
         "french": "Continuons, si vous le voulez bien.",
@@ -1459,7 +1459,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "147": {
         "id": 147,
         "english": "I agree.",
         "french": "Je suis d'accord.",
@@ -1469,7 +1469,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "148": {
         "id": 148,
         "english": "it was cut for almost a week",
         "french": "il a été coupé pendant pres d'une semaine",
@@ -1479,7 +1479,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "149": {
         "id": 149,
         "english": "anyway",
         "french": "d'ailleurs",
@@ -1489,7 +1489,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "150": {
         "id": 150,
         "english": "right away",
         "french": "a tout à l'heure",
@@ -1499,7 +1499,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "151": {
         "id": 151,
         "english": "A: Have a good day B: thanks, you too (formal)",
         "french": "A: passez une bonee journee! B: Merci, vous aussi",
@@ -1509,7 +1509,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "152": {
         "id": 152,
         "english": "correct the excercises",
         "french": "corriger les exercices",
@@ -1519,7 +1519,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "153": {
         "id": 153,
         "english": "Thank you for spending time with us.",
         "french": "Merci de passer du temps avec nous.",
@@ -1529,7 +1529,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "154": {
         "id": 154,
         "english": "Thank you for being patient and helping me improve.",
         "french": "Merci d'être patient(e) et de m'aider à m'améliorer.",
@@ -1539,7 +1539,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "155": {
         "id": 155,
         "english": "I have learned so much thanks to you.",
         "french": "J'ai tellement appris grâce à vous.",
@@ -1549,7 +1549,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "156": {
         "id": 156,
         "english": "what do you do during the holidays?",
         "french": "qu'est-ce que vous faites pendant les vacances?",
@@ -1559,7 +1559,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "157": {
         "id": 157,
         "english": "we rent a house in Brittany",
         "french": "nous louons une maison en Bretagne",
@@ -1569,7 +1569,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "158": {
         "id": 158,
         "english": "children want to do windsurfing",
         "french": "les enfants veulent faire de la planche à voile",
@@ -1579,7 +1579,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "159": {
         "id": 159,
         "english": "you can come and see us",
         "french": "vous pouvez venir nous voir",
@@ -1589,7 +1589,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "160": {
         "id": 160,
         "english": "do you go on a tour?",
         "french": "vous partez en voyage organisé?",
@@ -1599,7 +1599,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "161": {
         "id": 161,
         "english": "We have three weeks in Quebec",
         "french": "on pan trois semaines au Québec",
@@ -1609,7 +1609,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "162": {
         "id": 162,
         "english": "this year has been tiring",
         "french": "cette année a été fatigante",
@@ -1619,7 +1619,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "163": {
         "id": 163,
         "english": "you still have to do some sport",
         "french": "il faut quand même faire un peu de sport",
@@ -1629,7 +1629,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "164": {
         "id": 164,
         "english": "I need to rest",
         "french": "j'ai besoin de me reposer",
@@ -1639,7 +1639,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "165": {
         "id": 165,
         "english": "The man is carrying a plastic bag full of groceries.",
         "french": "L'homme porte un sac plastique rempli de courses.",
@@ -1649,7 +1649,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "166": {
         "id": 166,
         "english": "Usually he played well",
         "french": "D'habitude il jouait bien",
@@ -1659,7 +1659,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "167": {
         "id": 167,
         "english": "Get your ticket at the station before getting on the train.",
         "french": "Prenez votre ticket à la gare avant de monter dans le train.",
@@ -1669,7 +1669,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "168": {
         "id": 168,
         "english": "You're blocking the way",
         "french": "vous genez le passage",
@@ -1679,7 +1679,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "169": {
         "id": 169,
         "english": "Be nice ",
         "french": "Soyez gentil",
@@ -1689,7 +1689,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "170": {
         "id": 170,
         "english": "Free the way",
         "french": "Degagez le passage",
@@ -1699,7 +1699,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "171": {
         "id": 171,
         "english": "what happened, exactly?",
         "french": "Qu’est-ce qui s’est passé au juste?",
@@ -1709,7 +1709,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "172": {
         "id": 172,
         "english": "The flight went well, I hope?",
         "french": "Le vol s’est bien passé, j’espère?",
@@ -1719,7 +1719,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "173": {
         "id": 173,
         "english": "After landing",
         "french": "Après l’atterrissage",
@@ -1729,7 +1729,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "174": {
         "id": 174,
         "english": "He looked for where one can find the luggage.",
         "french": "il a cherché où est-ce que l’on récupère les bagages.",
@@ -1739,7 +1739,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "175": {
         "id": 175,
         "english": "He looked at the billboards and information screens, but he did not understand what was written.",
         "french": "Il a regardé les panneaux et les écrans d’information, mais il ne comprenait pas ce qui était écrit.",
@@ -1749,7 +1749,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "176": {
         "id": 176,
         "english": "Your uncle, what did he do?",
         "french": "Ton oncle, qu’a-t-il fait ?",
@@ -1759,7 +1759,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "177": {
         "id": 177,
         "english": "At the end of this corridor, turn right",
         "french": "au bout de ce couloir, vous tournez à droite.",
@@ -1769,7 +1769,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "178": {
         "id": 178,
         "english": "What happened next?",
         "french": "Que s’est-il passé ensuite?",
@@ -1779,7 +1779,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "179": {
         "id": 179,
         "english": "What exactly did they ask of him?",
         "french": "ce qu’ils lui ont demandé exactement?",
@@ -1789,7 +1789,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "180": {
         "id": 180,
         "english": "He also had to provide the coupon for his lost suitcase",
         "french": "Il a dû également fournir le coupon de sa valise perdue.",
@@ -1799,7 +1799,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "181": {
         "id": 181,
         "english": "The person tried to locate the luggage using a computer",
         "french": "la personne a tenté, grâce à un ordinateur, de localiser le bagage.",
@@ -1809,7 +1809,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "182": {
         "id": 182,
         "english": "He gave his coordinate, that is to say (ie) the address of hotel, ..",
         "french": "Il a donné ses coordonnées, c’est-à-dire l’adresse de l’hôtel, son numéro de chambre",
@@ -1819,7 +1819,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "183": {
         "id": 183,
         "english": "The suitcase arrived the next morning, but it was very damaged",
         "french": "La valise est arrivée le lendemain matin, mais elle était très abîmée!",
@@ -1829,7 +1829,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "184": {
         "id": 184,
         "english": "The handle is broken, there was a big oil stain on one side and a hole on the other side.",
         "french": "La poignée était cassée, il y avait une grosse tache d’huile sur un côté et un trou sur l’autre côté.",
@@ -1839,7 +1839,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "185": {
         "id": 185,
         "english": "I took a day off yesterday.",
         "french": "J'ai pris un jour de congé hier.",
@@ -1849,7 +1849,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "186": {
         "id": 186,
         "english": "Yesterday was a holiday, so we had the day off.",
         "french": "Hier, c'était un jour férié, donc on a eu un jour de congé.",
@@ -1859,7 +1859,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "187": {
         "id": 187,
         "english": "there are traffic jams",
         "french": "il y a les embouteillages",
@@ -1869,7 +1869,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "188": {
         "id": 188,
         "english": "I am going to count to three",
         "french": "Je vais compter jusqu'a trois",
@@ -1879,7 +1879,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "189": {
         "id": 189,
         "english": "I am not kidding",
         "french": "Je ne plaisante pas",
@@ -1889,7 +1889,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "190": {
         "id": 190,
         "english": "Would you like to go out to dinner with me?",
         "french": "Tu veux aller diner avec moi?",
@@ -1899,7 +1899,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "191": {
         "id": 191,
         "english": "You look great",
         "french": "Tu es superbe",
@@ -1909,7 +1909,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "192": {
         "id": 192,
         "english": "when do we see each other again?",
         "french": "quand est-ce qu'on se revoit?",
@@ -1919,7 +1919,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "193": {
         "id": 193,
         "english": "Shall we go somewhere else?",
         "french": "On va ailleurs?",
@@ -1929,7 +1929,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "194": {
         "id": 194,
         "english": "What do you think of this place?",
         "french": "Qu'est-ce qu tu penses de cet endroit?",
@@ -1939,7 +1939,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "195": {
         "id": 195,
         "english": "This item, how much it is?",
         "french": "Cet object, combien ca coute?",
@@ -1949,7 +1949,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "196": {
         "id": 196,
         "english": "I'd like this please",
         "french": "Je voudrais ceci s'il vous plait",
@@ -1959,7 +1959,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "197": {
         "id": 197,
         "english": "Could we have the menu please? (formal)",
         "french": "Pourrions-nous avoir le menu s'il vous plait?",
@@ -1969,7 +1969,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "198": {
         "id": 198,
         "english": "Do you have any recommendation? (formal)",
         "french": "Avez-vous des recommandations?",
@@ -1979,7 +1979,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "199": {
         "id": 199,
         "english": "Could I have the check please? (formal, restaurant)",
         "french": "Pourrais-je avoir l'addition s'il vous plait?",
@@ -1989,7 +1989,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "200": {
         "id": 200,
         "english": "Can I pay by credit card?",
         "french": "Puis-je payer avec ma carte de credit?",
@@ -1999,7 +1999,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "201": {
         "id": 201,
         "english": "Can I try this?",
         "french": "Puis-je essayer ceci?",
@@ -2009,7 +2009,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "202": {
         "id": 202,
         "english": "Do you have a fever?",
         "french": "Avez-vous la fievre?",
@@ -2019,7 +2019,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "203": {
         "id": 203,
         "english": "I lost my passport",
         "french": "J'ai perdu mon passport",
@@ -2029,7 +2029,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "204": {
         "id": 204,
         "english": "I think I ate something bad",
         "french": "Je pense que j'ai mange quelque chose de mauvais",
@@ -2039,7 +2039,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "205": {
         "id": 205,
         "english": "I need a doctor",
         "french": "J'ai besoin d'un medecin",
@@ -2049,7 +2049,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "206": {
         "id": 206,
         "english": "I can't find the way back to my hotel",
         "french": "Je ne retrouve pas le chemin jusqu'a mon hotel",
@@ -2059,7 +2059,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "207": {
         "id": 207,
         "english": "Is there a pharmacy nearby?",
         "french": "Y a-t-il une pharmacie dans le coin?",
@@ -2069,7 +2069,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "208": {
         "id": 208,
         "english": "You did a gret job (formal)",
         "french": "You avez fait un excellent travail",
@@ -2079,7 +2079,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "209": {
         "id": 209,
         "english": "You were right (formal)",
         "french": "Vous aviez raison",
@@ -2089,7 +2089,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "210": {
         "id": 210,
         "english": "I brought you something special (formal)",
         "french": "Je vous ai apporte quelque chose de special.",
@@ -2099,7 +2099,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "211": {
         "id": 211,
         "english": "How long have you been studying French? (informal)",
         "french": "Combine de temps as-tu appris le francais?",
@@ -2109,7 +2109,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "212": {
         "id": 212,
         "english": "it does not depend on the person",
         "french": "il ne dépend pas de la personne",
@@ -2119,7 +2119,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "213": {
         "id": 213,
         "english": "When do you want to come?",
         "french": "Quand voulez-vous venir?",
@@ -2129,7 +2129,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "214": {
         "id": 214,
         "english": "As soon as possible",
         "french": "le plus tôt possible",
@@ -2139,7 +2139,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "215": {
         "id": 215,
         "english": "I have a tooth that hurts lot",
         "french": "j'ai une dent qui me fait très mal",
@@ -2149,7 +2149,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "216": {
         "id": 216,
         "english": "Does it suit you?",
         "french": "Ca vous convient?",
@@ -2159,7 +2159,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "217": {
         "id": 217,
         "english": "Since I can not see it today, yes it's okay",
         "french": "Puisque je ne peux pas le voir aujourd'hui, oui ca va",
@@ -2169,7 +2169,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "218": {
         "id": 218,
         "english": "Something came up and he won't be able to come.",
         "french": "Il a eu un empêchement et ne pourra pas venir",
@@ -2179,7 +2179,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "219": {
         "id": 219,
         "english": "Sorry I'm late: I was held up.",
         "french": "Désolé d'être en retard : j'ai eu un contretemps",
@@ -2189,7 +2189,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "220": {
         "id": 220,
         "english": "Why are you so late? (informal)",
         "french": "Pourquoi est-ce que tu es tellement en retard ?",
@@ -2199,7 +2199,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "221": {
         "id": 221,
         "english": "last night's storms caused floods",
         "french": "ce sont les orages d'hier soir qui ont provoqué des inondations",
@@ -2209,7 +2209,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "222": {
         "id": 222,
         "english": "To warn us",
         "french": "pour nous prévenir",
@@ -2219,7 +2219,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "223": {
         "id": 223,
         "english": "What is happening?",
         "french": "Qu'est-ce qui se passe",
@@ -2229,7 +2229,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "224": {
         "id": 224,
         "english": "What happened?!",
         "french": "Qu'est-ce qui s'est passé?!",
@@ -2239,7 +2239,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "225": {
         "id": 225,
         "english": "what happened to you? (informal)",
         "french": "qu'est ce qui t'es arrivé",
@@ -2249,7 +2249,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "226": {
         "id": 226,
         "english": "Thank god",
         "french": "dieu merci",
@@ -2259,7 +2259,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "227": {
         "id": 227,
         "english": "It was love at first sight",
         "french": "j'ai eu le coup de foudre",
@@ -2269,7 +2269,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "228": {
         "id": 228,
         "english": "It's annoying",
         "french": "C'est contrariant",
@@ -2279,7 +2279,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "229": {
         "id": 229,
         "english": "allow me to express my deep frustration about your service",
         "french": "permettez moi de vous exprimer ma vive contrariant concernant vos service",
@@ -2289,7 +2289,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "230": {
         "id": 230,
         "english": "there is nothing in there",
         "french": "il n'y a rien là-dedans",
@@ -2299,7 +2299,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "231": {
         "id": 231,
         "english": "We'll settle it tomorrow",
         "french": "On le réglera demain.",
@@ -2309,7 +2309,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "232": {
         "id": 232,
         "english": "It's more important that the other figures are good",
         "french": "Ç'est plus important que les autres chiffres sont bons",
@@ -2319,7 +2319,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "233": {
         "id": 233,
         "english": "it seems to me",
         "french": "il me semble",
@@ -2329,7 +2329,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "234": {
         "id": 234,
         "english": "rest and return with the fresh head",
         "french": "reposez-vous et revenez avec la tête fraiche",
@@ -2339,7 +2339,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "235": {
         "id": 235,
         "english": "we have to (it is necessary to) get to the bottom of this question",
         "french": "il faut aller au fond de cette question",
@@ -2349,7 +2349,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "236": {
         "id": 236,
         "english": "many heads worth better than one",
         "french": "plusieurs têtes valent mieux qu'une",
@@ -2359,7 +2359,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "237": {
         "id": 237,
         "english": "forget it for tonight guys",
         "french": "oubliez ça pour ce soir les gars",
@@ -2369,7 +2369,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "238": {
         "id": 238,
         "english": "I do not understand such a bad organization and so much negligence towards clients",
         "french": "je ne comprends pas une si mauvaise organisation et tant de négligence envers vos clients",
@@ -2379,7 +2379,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "239": {
         "id": 239,
         "english": "I am waiting for explanations",
         "french": "j'attends à la fois des explications",
@@ -2389,7 +2389,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "240": {
         "id": 240,
         "english": "As compensation",
         "french": "A titre de dédommagement",
@@ -2399,7 +2399,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "241": {
         "id": 241,
         "english": "May I sit down? - Please do.",
         "french": "Je peux m’asseoir ? - Je vous en prie.",
@@ -2409,7 +2409,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "242": {
         "id": 242,
         "english": "She asked him to leave.",
         "french": "Elle l’a prié de sortir",
@@ -2419,7 +2419,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "243": {
         "id": 243,
         "english": "There was a lot of damage.",
         "french": "Il y a eu beaucoup de dégâts.",
@@ -2429,7 +2429,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "244": {
         "id": 244,
         "english": "Which had already been hit hard by the storm",
         "french": "qui avait déjà été durement touchee par la tempete",
@@ -2439,7 +2439,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "245": {
         "id": 245,
         "english": "She came despite the bad weather",
         "french": "Elle est venue malgré les intempéries",
@@ -2449,7 +2449,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "246": {
         "id": 246,
         "english": "I am calling you about a delivery I just received which does not correspond to my order",
         "french": "Je vous telephone a propos d'une livarison que je viens de recevoiret qui ne corrspond pas a ma commande",
@@ -2459,7 +2459,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "247": {
         "id": 247,
         "english": "The table that I just received is black",
         "french": "Le table que je viens de recevoir es noire",
@@ -2469,7 +2469,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "248": {
         "id": 248,
         "english": "A meeting was organized yersterday morning.",
         "french": "Une reunion a ete organise hier matin.",
@@ -2479,7 +2479,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "249": {
         "id": 249,
         "english": "she arrived late as a result of a setback",
         "french": "elle est arrivé en retard à la suite d'un contretemps",
@@ -2489,7 +2489,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "250": {
         "id": 250,
         "english": "you remember those two friends I invited",
         "french": "tu te souviens de ces deux amies que j'avais invitée",
@@ -2499,7 +2499,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "251": {
         "id": 251,
         "english": "a fire broke out on my street",
         "french": "un incendie s'est déclaré dans ma rue",
@@ -2509,7 +2509,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "252": {
         "id": 252,
         "english": "She suggested to us to go to a team room",
         "french": "elle nous a proposé d'aller dans un salon de thé",
@@ -2519,7 +2519,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "253": {
         "id": 253,
         "english": "like the one we had last December",
         "french": "comme celle que nous avons eu en décembre dernier",
@@ -2529,7 +2529,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "254": {
         "id": 254,
         "english": "we arrived home punctured and frozen",
         "french": "nous sommes arrivées à la maison crevées et gelées",
@@ -2539,7 +2539,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "255": {
         "id": 255,
         "english": "We had a good apetizer together",
         "french": "nous avons pris un bon apéritif ensemble",
@@ -2549,7 +2549,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "256": {
         "id": 256,
         "english": "the meeting was postponed until the following day",
         "french": "la réunion a été reportée au lendemain",
@@ -2559,7 +2559,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "257": {
         "id": 257,
         "english": "it was that day that I had to leave",
         "french": "ç'était ce jour-là que je devais partir",
@@ -2569,7 +2569,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "258": {
         "id": 258,
         "english": "I did not see many people",
         "french": "je ne voyais pas grand monde",
@@ -2579,7 +2579,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "259": {
         "id": 259,
         "english": "It was still frustrating",
         "french": "C'etatit tout de meme frustrant",
@@ -2589,7 +2589,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "260": {
         "id": 260,
         "english": "I wasn't well at all",
         "french": "je n'allais pas bien du tout",
@@ -2599,7 +2599,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "261": {
         "id": 261,
         "english": "I had enough",
         "french": "j'en ai eu assez",
@@ -2609,7 +2609,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "262": {
         "id": 262,
         "english": "You started working?",
         "french": "vous vous êtes mise à travailler?",
@@ -2619,7 +2619,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "263": {
         "id": 263,
         "english": "I managed to find a job",
         "french": "Je suis arrivee a trouver un emploi",
@@ -2629,7 +2629,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "264": {
         "id": 264,
         "english": "Half of this bottle is empty",
         "french": "La moitié de cette bouteille est vide.",
@@ -2639,7 +2639,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "265": {
         "id": 265,
         "english": "apparently I have some commercial sense",
         "french": "apparemment j'ai un certain sens commercial",
@@ -2649,7 +2649,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "266": {
         "id": 266,
         "english": "you balance (reconcile) your family life and your work life",
         "french": "vous arrivez à concilier votre vie familiale et votre vie professionnelle",
@@ -2659,7 +2659,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "267": {
         "id": 267,
         "english": "I was a pretty good young man",
         "french": "j'étais un jeune homme assez bien de sa personne",
@@ -2669,7 +2669,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "268": {
         "id": 268,
         "english": "Good luck to the generation who come after us!",
         "french": "Bonne chance à la génération qui nous remplacera",
@@ -2679,7 +2679,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "269": {
         "id": 269,
         "english": "What are you waiting for?",
         "french": "Qu'est ce que tu attends ?",
@@ -2689,7 +2689,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "270": {
         "id": 270,
         "english": "I'm so proud of you!",
         "french": "Je suis si fier de toi !",
@@ -2699,7 +2699,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "271": {
         "id": 271,
         "english": "It's worth a shot.",
         "french": "Ça vaut le coup d'essayer.",
@@ -2709,7 +2709,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "272": {
         "id": 272,
         "english": "What do you have to lose?",
         "french": "Qu'est ce que tu as à perdre ?",
@@ -2719,7 +2719,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "273": {
         "id": 273,
         "english": "Believe in yourself.",
         "french": "Crois en toi.",
@@ -2729,7 +2729,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "274": {
         "id": 274,
         "english": "The sky's the limit.",
         "french": "Le ciel est ta seule limite",
@@ -2739,7 +2739,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "275": {
         "id": 275,
         "english": "The bookshelf is full of books.",
         "french": "L'étagère est remplie de livres.",
@@ -2749,7 +2749,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "276": {
         "id": 276,
         "english": "He is attacked",
         "french": "Il a ete agresse",
@@ -2759,7 +2759,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "277": {
         "id": 277,
         "english": "Please leave any firearms outside the building",
         "french": "Veuillez laisser les armes à feu hors du bâtiment.",
@@ -2769,7 +2769,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "278": {
         "id": 278,
         "english": "The house has already been burgled three times.",
         "french": "La maison a été cambriolée trois fois déjà.",
@@ -2779,7 +2779,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "279": {
         "id": 279,
         "english": "I have candles to deal with the blackout",
         "french": "J'ai des bougies pour faire face à la panne d'électricité",
@@ -2789,7 +2789,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "280": {
         "id": 280,
         "english": "I got a ticket for speeding.",
         "french": "J'ai pris une contravention pour excès de vitesse.",
@@ -2799,7 +2799,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "281": {
         "id": 281,
         "english": "The car came to a sudden halt when the driver slammed on the brakes.",
         "french": "La voiture s'est arrêtée brusquement lorsque le conducteur a appuyé à fond sur les freins.",
@@ -2809,7 +2809,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "282": {
         "id": 282,
         "english": "The suspect answered the police officer very calmly.",
         "french": "Le suspect répond tranquillement à l'agent de police.",
@@ -2819,7 +2819,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "283": {
         "id": 283,
         "english": "My father caught a trout in the river this morning.",
         "french": "Mon père a pêché une truite dans la rivière ce matin",
@@ -2829,7 +2829,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "284": {
         "id": 284,
         "english": "Don't be scared; the dog doesn't bite.",
         "french": "N'ayez pas peur, ce chien ne mord pas.",
@@ -2839,7 +2839,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "285": {
         "id": 285,
         "english": "He was out for a full five minutes after the accident.",
         "french": "Il s'est évanoui pendant cinq bonnes minutes après l'accident.",
@@ -2849,7 +2849,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "286": {
         "id": 286,
         "english": "When you were little, who was your best friend? (inf)",
         "french": "Quand tu etais petit, qui etait ton meilleur ami?",
@@ -2859,7 +2859,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "287": {
         "id": 287,
         "english": "When you were little, how were you going to school?",
         "french": "Quand tu etais petit, comment allais-tu a l'ecole?",
@@ -2869,7 +2869,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "288": {
         "id": 288,
         "english": "100 years ago, what diseases did not yet have treatment",
         "french": "il y a 100 ans, quelle maladies n'avaient pas encore de traitement",
@@ -2879,7 +2879,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "289": {
         "id": 289,
         "english": "That hike killed us.",
         "french": "Cette randonnée nous a tués",
@@ -2889,7 +2889,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "290": {
         "id": 290,
         "english": "My brother was killed in a car accident.",
         "french": "Mon frère s'est tué dans un accident de voiture.",
@@ -2899,7 +2899,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "291": {
         "id": 291,
         "english": "We always dress fast.",
         "french": "Nous nous habillons toujours vite.",
@@ -2909,7 +2909,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "292": {
         "id": 292,
         "english": "That brings us to a third idea",
         "french": "Ça nous amène à une troisième idée",
@@ -2919,7 +2919,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "293": {
         "id": 293,
         "english": "The red fox is standing in the snow",
         "french": "Le renard rouge se tient debout dans la neige",
@@ -2929,7 +2929,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "294": {
         "id": 294,
         "english": "The guard stands all day.",
         "french": "Le garde se tient debout toute la journée. Le garde est debout toute la journée.",
@@ -2939,7 +2939,7 @@
         "tags": [],
         "notes": ""
     },
-    {
+    "295": {
         "id": 295,
         "english": "He's got some nerve, that guy!",
         "french": "Il ne manque pas d'air, lui",
@@ -2949,4 +2949,4 @@
         "tags": [],
         "notes": ""
     }
-]
+}

@@ -5,7 +5,8 @@ import json
 
 
 def build_dict(seq, key):
-    return dict((d[key], dict(d, index=index)) for (index, d) in enumerate(seq))
+    return dict((d[key], dict(d)) for (index, d) in enumerate(seq))
+
 
 def read_from_json(file_name):
     json_data = Path(file_name).read_text(encoding="utf-8")
@@ -24,7 +25,7 @@ def write_collection_to_json(data, file_name):
 
 
 def reset_data_strength(file_name):
-    data = read_from_json(file_name)
+    data = read_from_json(file_name).values()
     for d in data:
         d['strength'] = 0
     write_collection_to_json(data, file_name)
@@ -33,7 +34,7 @@ def reset_data_strength(file_name):
 
 def get_stats(file_name):
     colorama_init()
-    data = read_from_json(file_name)
+    data = read_from_json(file_name).values()
     low = len([d for d in data if d['strength'] < 1])
     mid = len([d for d in data if 1 <= d['strength'] < 3])
     high = len([d for d in data if 3 <= d['strength']])
@@ -44,7 +45,7 @@ def get_stats(file_name):
 
 
 def get_bookmarks(file_name):
-    data = read_from_json(file_name)
+    data = read_from_json(file_name).values()
     bookmarked = [d for d in data if d['bookmarked']]
     print_bookmarks(bookmarked)
 
@@ -56,6 +57,7 @@ def print_sentence(d):
     print('lvl: ', d['level'])
     print('strength: ', d['strength'])
 
+
 def print_bookmarks(bookmarked):
     if not bookmarked:
         print("No bookmarks")
@@ -65,11 +67,19 @@ def print_bookmarks(bookmarked):
 
 def clear_bookmark_by_ids(file_name, *ids):
     data = read_from_json(file_name)
-    bookmarked = [d for d in data if d['bookmarked']]
+    bookmarked = [d for d in data.values() if d['bookmarked']]
     for d in bookmarked:
         if d["id"] in ids:
             d["bookmarked"] = False
     write_collection_to_json(data, file_name)
+
+
+def remove_field(file_name, field):
+    data = read_from_json(file_name)
+    for d in data.values():
+        d.pop(field, None)
+    write_collection_to_json(data, file_name)
+    print("Data updated!")
 
 
 def add_field(file_name, new_field, default_value):
@@ -80,21 +90,21 @@ def add_field(file_name, new_field, default_value):
     print("Data updated!")
 
 
-def write_progress(yes, no, later, faults, time):
+def write_progress(yes, no, later, _faults, time):
     progress = read_from_json("progress.json")
     today = date.today()
     total_questions = yes + no + later
 
     # if we have already entry for today, update it
     # otherwise create a new entry for today
-    data_index = next((index for (index, d) in enumerate(
-        progress) if d['date'] == str(today)), None)
+    data_index = progress.get(today)
     if data_index != None:
-        progress[data_index]['correct'] += yes
-        progress[data_index]['wrong'] += no
-        progress[data_index]['questions'] += total_questions
-        progress[data_index]['spent_time'] += time
-        progress[data_index]['faults'] = list(set(progress[data_index]['faults'] + faults))
+        data_index['correct'] += yes
+        data_index['wrong'] += no
+        data_index['questions'] += total_questions
+        data_index['spent_time'] += time
+        data_index['faults'] = list(
+            set(progress[data_index]['faults'] + _faults))
     else:
         data = dict(
             date=str(today),
@@ -102,23 +112,23 @@ def write_progress(yes, no, later, faults, time):
             correct=yes,
             wrong=no,
             spent_time=0,
-            faults=[]
+            faults=_faults
         )
-        progress.append(data)
+        progress[str(today)] = data
 
     write_collection_to_json(progress, "progress.json")
     print(f"progress updated for {today}")
 
 
 def get_progress():
-    data = sorted(read_from_json("progress.json"), key=lambda k: k['date'])
+    data = read_from_json("progress.json")
     print()
-    for d in data:
+    for d in data.values():
         print_progress(d)
 
 
 def get_progress_by_date(_date):
-    data = read_from_json("progress.json")
+    data = read_from_json("progress.json").values()
     progress = next(d for d in data if d['date'] == _date)
     print_progress(progress)
 
@@ -128,19 +138,18 @@ def print_progress(d):
     print(
         f"{d['date']}: \tquestions: {d['questions']:3d} \t\tresult: {result:10s} \ttime spent: {d['spent_time']:}")
 
-def print_wrong_questions_by_day(date, summary):
-    read_data = read_from_json("sentences.json")
-    data = build_dict(read_data, key="id")
 
+def print_wrong_questions_by_day(date, summary):
+    data = read_from_json("sentences.json")
+    # data = build_dict(read_data, key="id")
 
     progress = read_from_json("progress.json")
-    data_index = next((index for (index, d) in enumerate(progress) if d['date'] == str(date)), None)
+    data_index = progress.get(date, None)
 
     # get indices of the wrong answered questions
-    indices = progress[data_index]['faults']
-
+    indices = data_index['faults']
     for ind in indices:
-        sen = data.get(ind)
+        sen = data.get(str(ind))
         if summary:
             print(sen.get('english'))
             print(sen.get('french'))
@@ -148,6 +157,7 @@ def print_wrong_questions_by_day(date, summary):
             print_sentence(sen)
 
     print()
+
 
 def percentage(part, whole):
     return f"{ int(100 * int(part)/int(whole))}%"

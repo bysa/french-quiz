@@ -12,7 +12,7 @@ def take_quiz(file_name, number_of_questions):
     data = utility.read_from_json(file_name)
 
     # copy data to a new list to shuffle and prevent messing order of the original list
-    shuffled = data.copy()
+    shuffled = list(data.values()).copy()
     random.shuffle(shuffled)
 
     # sort based on the strength
@@ -31,7 +31,7 @@ def take_quiz(file_name, number_of_questions):
     faults = []
     start = timer()
     for index in questions_indices:
-        question = data[index-1]
+        question = data.get(str(index))
         # can randomly ask french or english
         input("\n" + question["english"])
         print(question["french"] + "\n")
@@ -67,7 +67,7 @@ def take_quiz(file_name, number_of_questions):
                 ans = False
 
     end = timer()
-    delta_time = int(end - start) # Time in seconds, e.g. 5.38091952400282
+    delta_time = int(end - start)  # Time in seconds, e.g. 5.38091952400282
     print(
         f"out of {number_of_questions}:\n correct answers: {yes}\n wrong answers: {no}\n ask later: {later}")
 
@@ -76,5 +76,6 @@ def take_quiz(file_name, number_of_questions):
 
     # write the progress
     print()
-    utility.write_progress(yes=yes, no=no, later=later, faults=faults, time=delta_time)
+    utility.write_progress(yes=yes, no=no, later=later,
+                           _faults=faults, time=delta_time)
     utility.get_progress_by_date(str(date.today()))

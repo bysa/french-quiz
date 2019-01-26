@@ -1,5 +1,5 @@
-[
-    {
+{
+    "2019-01-12": {
         "date": "2019-01-12",
         "questions": 5,
         "correct": 0,
@@ -7,7 +7,7 @@
         "spent_time": 0,
         "faults": []
     },
-    {
+    "2019-01-13": {
         "date": "2019-01-13",
         "questions": 30,
         "correct": 18,
@@ -15,7 +15,7 @@
         "spent_time": 0,
         "faults": []
     },
-    {
+    "2019-01-14": {
         "date": "2019-01-14",
         "questions": 50,
         "correct": 19,
@@ -23,7 +23,7 @@
         "spent_time": 0,
         "faults": []
     },
-    {
+    "2019-01-15": {
         "date": "2019-01-15",
         "questions": 30,
         "correct": 13,
@@ -31,7 +31,7 @@
         "spent_time": 0,
         "faults": []
     },
-    {
+    "2019-01-16": {
         "date": "2019-01-16",
         "questions": 30,
         "correct": 11,
@@ -39,7 +39,7 @@
         "spent_time": 0,
         "faults": []
     },
-    {
+    "2019-01-17": {
         "date": "2019-01-17",
         "questions": 100,
         "correct": 46,
@@ -47,7 +47,7 @@
         "spent_time": 0,
         "faults": []
     },
-    {
+    "2019-01-18": {
         "date": "2019-01-18",
         "questions": 100,
         "correct": 42,
@@ -55,7 +55,7 @@
         "spent_time": 0,
         "faults": []
     },
-    {
+    "2019-01-19": {
         "date": "2019-01-19",
         "questions": 100,
         "correct": 50,
@@ -63,7 +63,7 @@
         "spent_time": 0,
         "faults": []
     },
-    {
+    "2019-01-20": {
         "date": "2019-01-20",
         "questions": 50,
         "correct": 22,
@@ -71,7 +71,7 @@
         "spent_time": 0,
         "faults": []
     },
-    {
+    "2019-01-21": {
         "date": "2019-01-21",
         "questions": 50,
         "correct": 15,
@@ -79,7 +79,7 @@
         "spent_time": 0,
         "faults": []
     },
-    {
+    "2019-01-22": {
         "date": "2019-01-22",
         "questions": 50,
         "correct": 33,
@@ -87,7 +87,7 @@
         "spent_time": 0,
         "faults": []
     },
-    {
+    "2019-01-23": {
         "date": "2019-01-23",
         "questions": 50,
         "correct": 44,
@@ -95,7 +95,7 @@
         "spent_time": 0,
         "faults": []
     },
-    {
+    "2019-01-24": {
         "date": "2019-01-24",
         "questions": 50,
         "correct": 24,
@@ -103,7 +103,7 @@
         "spent_time": 0,
         "faults": []
     },
-    {
+    "2019-01-25": {
         "date": "2019-01-25",
         "questions": 53,
         "correct": 37,
@@ -111,4 +111,4 @@
         "spent_time": 0,
         "faults": []
     }
-]
+}
