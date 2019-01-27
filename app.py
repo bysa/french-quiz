@@ -37,9 +37,12 @@ def switch_command(command):
         id = int(input("Enter id of the bookmark to remove?\n"))
         utility.clear_bookmark_by_ids(file_name, id)
     elif command == "get-errors":
+        long_version = False
+        if len(sys.argv) > 2:
+            long_version = sys.argv[2] == "long"
         today = date.today()
-        user_input = input("Short version?\n")
-        utility.print_wrong_questions_by_day(str(today), summary=user_input != "n")            
+        utility.print_wrong_questions_by_day(
+            str(today), summary=not long_version)
 
     else:
         print("unknown command")

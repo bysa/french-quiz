@@ -92,7 +92,7 @@ def add_field(file_name, new_field, default_value):
 
 def write_progress(yes, no, later, _faults, time):
     progress = read_from_json("progress.json")
-    today = date.today()
+    today = str(date.today())
     total_questions = yes + no + later
 
     # if we have already entry for today, update it
@@ -104,14 +104,14 @@ def write_progress(yes, no, later, _faults, time):
         data_index['questions'] += total_questions
         data_index['spent_time'] += time
         data_index['faults'] = list(
-            set(progress[data_index]['faults'] + _faults))
+            set(data_index['faults'] + _faults))
     else:
         data = dict(
             date=str(today),
             questions=total_questions,
             correct=yes,
             wrong=no,
-            spent_time=0,
+            spent_time=time,
             faults=_faults
         )
         progress[str(today)] = data
@@ -135,8 +135,13 @@ def get_progress_by_date(_date):
 
 def print_progress(d):
     result = percentage(d['correct'], d['questions'])
+    secs = d['spent_time']
+    if secs < 60:
+        time = str(secs) + " seconds"
+    else:
+        time = str((secs // 60)) + " minutes, " + str((secs % 60)) + " seconds"
     print(
-        f"{d['date']}: \tquestions: {d['questions']:3d} \t\tresult: {result:10s} \ttime spent: {d['spent_time']:}")
+        f"{d['date']}: \tquestions: {d['questions']:3d} \t\tresult: {result:5s} \ttime spent: {time}")
 
 
 def print_wrong_questions_by_day(date, summary):
@@ -149,6 +154,7 @@ def print_wrong_questions_by_day(date, summary):
     # get indices of the wrong answered questions
     indices = data_index['faults']
     for ind in indices:
+        print()
         sen = data.get(str(ind))
         if summary:
             print(sen.get('english'))
