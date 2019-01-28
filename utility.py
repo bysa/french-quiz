@@ -152,6 +152,9 @@ def print_wrong_questions_by_day(date, summary):
     data_index = progress.get(date, None)
 
     # get indices of the wrong answered questions
+    if not data_index:
+        print("No data for today")
+        return
     indices = data_index['faults']
     for ind in indices:
         print()
