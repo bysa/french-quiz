@@ -2948,5 +2948,55 @@
         "bookmarked": false,
         "tags": [],
         "notes": ""
+    },
+    "296": {
+        "id": 296,
+        "english": "It takes us two hours to get to Paris x2",
+        "french": "Cela nous prend deux heures pour aller à Paris. Nous mettons deux heures pour aller à Paris.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    "297": {
+        "id": 297,
+        "english": "There are some dogs",
+        "french": "Il y a des chiens (countable)",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    "298": {
+        "id": 298,
+        "english": "I eat some jam",
+        "french": "Je mange de la confiture (incountable)",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    "299": {
+        "id": 299,
+        "english": "They boarded the ferry",
+        "french": "Ils ont embarque sur le traversier",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    "300": {
+        "id": 300,
+        "english": "It was sunny x2",
+        "french": "Il faisait en soleille - il y avait du soleil",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
     }
 }

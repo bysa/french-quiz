@@ -22,8 +22,10 @@ def update_json(file_name):
 
 def write_to_json(data, eng_list, fr_list, target_file):
     # get the last index, so can append new info
-    last_index = 0 if not data else data[-1]["id"]
+    # print(data.keys())
+    last_index = 0 if not data else int(list(data)[-1])
 
+    print(last_index)
     # add new data to the loaded json
     index = 0
 
@@ -32,11 +34,12 @@ def write_to_json(data, eng_list, fr_list, target_file):
         lvl = out.group(1) if out != None else 0
         eng = eng.split('[')[0]
         # add only if it is new
-        if not any(sen["english"].strip().lower() == eng.lower() for sen in data):
+        if not any(sen["english"].strip().lower() == eng.lower() for sen in data.values()):
             index += 1
             item = dict(id=last_index + index,
                         english=eng, french=fr, strength=0, level=lvl, bookmarked=False, tags=[], notes="")
-            data.append(item)
+            # print(last_index + index)
+            data[last_index + index] = item
 
     # write added json to file
     utility.write_collection_to_json(data, target_file)
