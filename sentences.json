@@ -3248,5 +3248,205 @@
         "bookmarked": false,
         "tags": [],
         "notes": ""
+    },
+    "326": {
+        "id": 326,
+        "english": "They think our team played very well.",
+        "french": "Ils pensent que notre équipe a très bien joué.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    "327": {
+        "id": 327,
+        "english": "Don't be mad at me, Don't hold it against me.",
+        "french": "Ne m'en veux pas. / Ne m'en voulez pas.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    "328": {
+        "id": 328,
+        "english": "He's mad at me for lying.",
+        "french": "Il m'en veut d'avoir menti.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    "329": {
+        "id": 329,
+        "english": "One would have said that they did not want to play",
+        "french": "On aurait dit que les joueurs ne voulaient pas jouer",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    "330": {
+        "id": 330,
+        "english": "The referee was just",
+        "french": "L’arbitrage était juste.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    "331": {
+        "id": 331,
+        "english": "The referee gave only a few yellow cards.",
+        "french": "L’arbitre n’a donné que quelques cartons jaunes.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    "332": {
+        "id": 332,
+        "english": "Regarding the penalty, we were all a bit patriotic!",
+        "french": "Concernant le penalty, on a tous été un peu chauvin !",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    "333": {
+        "id": 333,
+        "english": "All the French were disgusted! It was a stolen goal!",
+        "french": "Tous les Français étaient dégoûtés! C’était un but volé !",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    "334": {
+        "id": 334,
+        "english": "I exchange my horse for your cow",
+        "french": "J'echange mon cheval contre ta vache",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    "335": {
+        "id": 335,
+        "english": "she managed to make progress in French",
+        "french": "elle est arrive a faire de progres en francais",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    "336": {
+        "id": 336,
+        "english": "that he would do his best to solve the crisis",
+        "french": "qu'il ferait de son mieux pour résoudre la crise",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    "337": {
+        "id": 337,
+        "english": "it's been years since I subscribed to this newspaper",
+        "french": "cela fait des années que je suis abonné à ce journal",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    "338": {
+        "id": 338,
+        "english": "I'm getting tired of it",
+        "french": "je commence à en avoir assez",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    "339": {
+        "id": 339,
+        "english": "She finally decided to replace her car.",
+        "french": "Elle s'est enfin résolue à changer de voiture.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    "340": {
+        "id": 340,
+        "english": "My husband knows how to solve any problem.",
+        "french": "Mon mari sait résoudre n'importe quel problème.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    "341": {
+        "id": 341,
+        "english": "She makes friends everywhere she goes.",
+        "french": "Elle se fait des amis partout où elle va.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    "342": {
+        "id": 342,
+        "english": "It is not just the press",
+        "french": "Il n y a pas que la presse",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    "343": {
+        "id": 343,
+        "english": "We'll leave as soon as Simon gets here.",
+        "french": "Nous partirons dès que Simon arrivera.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    "344": {
+        "id": 344,
+        "english": "Lucy failed, yet she had all she needed to succeed.",
+        "french": "Lucie a échoué ; pourtant elle avait tout pour réussir",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    "345": {
+        "id": 345,
+        "english": "She failed her English exam.",
+        "french": "Elle a échoué à son examen d'anglais.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
     }
 }
