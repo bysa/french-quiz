@@ -33,6 +33,9 @@ def switch_command(command):
         utility.get_bookmarks(file_name)
     elif command == "get-progress":
         utility.get_progress()
+    elif command == "get-week-errors":
+        print()
+        utility.print_wrong_questions_this_week()
     elif command == "clear-bookmarks":
         id = int(input("Enter id of the bookmark to remove?\n"))
         utility.clear_bookmark_by_ids(file_name, id)

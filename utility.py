@@ -168,5 +168,13 @@ def print_wrong_questions_by_day(date, summary):
     print()
 
 
+def print_wrong_questions_this_week():
+    today = date.today()
+    for i in range(7, 0, -1):
+        dt = str(today - timedelta(days=i))
+        print(dt)
+        print_wrong_questions_by_day(dt, summary=True)
+
+
 def percentage(part, whole):
     return f"{ int(100 * int(part)/int(whole))}%"
