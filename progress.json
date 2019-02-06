@@ -370,15 +370,17 @@
     },
     "2019-02-06": {
         "date": "2019-02-06",
-        "questions": 27,
-        "correct": 22,
-        "wrong": 5,
-        "spent_time": 477,
+        "questions": 50,
+        "correct": 43,
+        "wrong": 7,
+        "spent_time": 838,
         "faults": [
             354,
             301,
             207,
             178,
+            338,
+            157,
             285
         ]
     }
