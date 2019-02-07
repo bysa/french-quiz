@@ -3818,5 +3818,95 @@
         "bookmarked": false,
         "tags": [],
         "notes": ""
+    },
+    "383": {
+        "id": 383,
+        "english": "that happened to me",
+        "french": "Ca m’est arrivé",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    "384": {
+        "id": 384,
+        "english": "Something incredible will happen to you if you believe in it",
+        "french": "Quelque chose d’incroyable t’arrivera/vous arrivera si tu y crois / si vous y croyez.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    "385": {
+        "id": 385,
+        "english": "Accidents happen",
+        "french": "Les accidents arrivent",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    "386": {
+        "id": 386,
+        "english": "Something happens",
+        "french": "quelque chose se passe",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    "387": {
+        "id": 387,
+        "english": "Something goes well/badly",
+        "french": "quelque chose se passe bien/mal",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    "388": {
+        "id": 388,
+        "english": "I hope your interview will go well",
+        "french": "j’espère que ton entretien se passera bien / va bien se passer.",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    "389": {
+        "id": 389,
+        "english": "Everything went well",
+        "french": "Tout s’est bien passé",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    "390": {
+        "id": 390,
+        "english": "what happened?",
+        "french": "Qu’est-ce qui s’est passé ?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
+    },
+    "391": {
+        "id": 391,
+        "english": "How did it go?",
+        "french": "Comment ça s’est passé?",
+        "strength": 0,
+        "level": 0,
+        "bookmarked": false,
+        "tags": [],
+        "notes": ""
     }
 }
